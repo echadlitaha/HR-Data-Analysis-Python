@@ -1,0 +1,656 @@
+employee_id,age,gender,city,education,department,role,years_experience,hire_date,weekly_hours,overtime_hours,remote_days,monthly_salary_mad,performance_score,satisfaction_score,contract_type,promoted_last_2y
+EMP0389,22,Femme,Marrakech,Bac+2,Sales,Sales Representative,1,2024-08-12,30,12.4,1,12250,4.4,6.9,CDI,Non
+EMP0102,37,Femme,Casablanca,Bac+2,Data,Data Engineer,8,2018-05-02,39,5.9,2,17500,3.5,8.7,CDI,Non
+EMP0414,55,Homme,Rabat,Master,Operations,Technician,10,2014-01-27,33,14.0,2,16050,4.0,5.2,Stage,Non
+EMP0481,27,Homme,Casablanca,Master,Sales,Account Manager,7,2017-11-06,49,3.6,0,15800,2.6,9.1,CDI,Non
+EMP0508,33,Femme,Tanger,Master,Sales,Sales Representative,2,2022-11-01,37,5.6,0,14650,2.9,6.3,CDI,Non
+EMP0485,35,Homme,Marrakech,Master,IT,Network Engineer,4,2020-03-23,41,3.6,3,14850,2.2,6.6,CDD,Non
+EMP0270,31,Femme,Tanger,Master,Operations,Technician,9,2016-06-26,48,2.0,3,11300,2.4,8.0,CDI,Non
+EMP0550,35,Femme,Rabat,Bac+2,Sales,Sales Representative,2,2022-01-22,54,2.4,0,10050,3.6,4.7,CDI,Non
+EMP0590,50,Homme,Fès,,Finance,Controller,18,2006-04-14,45,4.2,0,18500,3.5,7.4,CDI,Non
+EMP0427,36,Homme,Marrakech,Bac+2,RH,HR Specialist,5,2020-10-20,40,4.1,1,11500,3.7,7.3,CDI,Non
+EMP0418,32,Femme,Agadir,Licence,Operations,Technician,10,2015-05-25,38,6.1,4,12650,4.8,7.2,CDI,Non
+EMP0005,22,Homme,Tanger ,Licence,Operations,Operations Analyst,0,2024-03-06,42,7.3,1,10250,4.0,5.9,CDI,Non
+EMP0240,36,Homme,Rabat,Bac,Sales,Sales Analyst,13,2013-05-05,44,2.3,1,11150,3.9,7.1,CDI,Non
+EMP0255,38,Homme,Fès ,Licence,Sales,Sales Analyst,4,2021-09-14,40,7.6,2,9800,3.8,8.5,CDD,Non
+EMP0556,44,Homme,Casablanca,Licence,Data,BI Analyst,14,2010-06-20,45,5.4,2,18150,2.6,7.3,CDI,Oui
+EMP0191,35,Femme,Marrakech,Doctorat,Operations,Operations Analyst,9,2017-10-14,39,9.4,1,13750,3.1,5.3,CDI,Non
+EMP0256,41,Femme,Rabat,Master,Data,Data Analyst,6,2020-09-17,47,2.3,0,13900,3.5,8.4,CDI,Non
+EMP0541,44,Femme,Marrakech,Licence,Sales,Sales Representative,22,2004-09-22,44,2.4,1,19200,3.5,7.2,CDI,Non
+EMP0301,35,Homme,Casablanca,Doctorat,Sales,Sales Representative,2,2022-12-03,40,4.2,1,68000,4.1,7.3,CDI,Non
+EMP0134,37,Homme,Tanger,Doctorat,Sales,Sales Analyst,0,2026-06-26,46,2.2,1,12850,2.9,6.8,CDD,Non
+EMP0090,52,Femme,Rabat,Master,Sales,Account Manager,11,2015-02-13,43,2.0,0,17800,3.2,7.4,Stage,Non
+EMP0088,50,Femme,Agadir,Master,RH,Recruiter,27,2002-06-04,43,13.4,1,21500,4.9,7.5,Stage,Non
+EMP0018,41,Homme,Casablanca,Bac+2,Operations,Operations Analyst,10,2016-07-10,34,7.0,2,17150,5.0,5.7,Stage,Non
+EMP0292,41,Femme,Casablanca,Master,Sales,Sales Analyst,20,2006-08-02,40,5.2,0,19650,2.7,7.2,CDI,Non
+EMP0166,28,Homme,Casablanca,Licence,Operations,Operations Analyst,1,2025-08-27,36,13.9,0,8350,2.8,8.9,CDI,Non
+EMP0585,45,Homme,Tanger,Doctorat,RH,HR Specialist,21,2003-04-13,46,7.8,0,21700,2.0,5.0,CDI,Non
+EMP0213,33,Femme,Fès,Master,Sales,Account Manager,5,2019-05-22,36,11.6,1,17950,3.1,7.1,CDI,Non
+EMP0249,22,Homme,Casablanca,Bac+2,Sales,Sales Representative,1,2024-09-05,43,10.5,0,11400,3.1,5.7,CDI,Non
+EMP0492,28,Femme,Tanger,Bac+2,Finance,Accountant,2,2022-04-06,42,3.8,2,11100,3.3,8.5,CDI,Oui
+EMP0063,46,Femme,Marrakech,Licence,IT,System Engineer,4,2021-12-01,30,12.2,0,14800,2.4,4.9,CDI,Non
+EMP0442,45,Homme,Marrakech,Licence,Sales,Sales Analyst,2,2022-08-06,42,6.0,1,11650,3.3,6.3,CDI,Non
+EMP0522,34,Homme,Marrakech,Bac+2,Operations,Technician,1,2024-04-10,45,10.8,0,5450,2.4,6.3,CDI,Non
+EMP0138,45,Femme,Casablanca,Licence,Finance,Controller,1,2023-03-09,43,2.9,2,14500,3.5,6.2,CDI,Non
+EMP0424,50,Homme,Casablanca,Licence,Finance,Financial Analyst,15,2011-02-22,44,6.6,2,18450,4.1,7.3,Stage,Non
+EMP0341,45,Homme,Tanger,Master,Sales,Sales Analyst,13,2011-07-21,48,10.3,0,15050,3.4,7.1,CDI,Non
+EMP0378,49,Homme,Agadir,Master,IT,Network Engineer,19,2007-06-09,41,14.7,2,21650,3.2,5.5,CDI,Non
+EMP0284,32,Homme,,Bac+2,Operations,Operations Analyst,0,2024-09-18,43,2.5,4,6900,3.8,6.7,CDI,Non
+EMP0359,22,Homme,Marrakech,Bac,IT,Network Engineer,2,2024-03-25,34,1.7,1,11600,3.2,4.5,CDI,Non
+EMP0611,36,Homme,Casablanca,Bac+2,Sales,Account Manager,21,2024-02-06,45,1.6,2,12400,3.3,6.9,CDI,Non
+EMP0467,33,Homme,Agadir,Doctorat,Sales,Sales Representative,7,2018-10-18,39,9.6,3,16800,2.8,7.0,CDI,Non
+EMP0120,60,Femme,Tanger,Master,Sales,Sales Representative,1,2023-02-13,40,7.8,1,13600,4.7,6.9,CDI,Non
+EMP0177,33,Femme,Fès,Licence,Sales,Sales Analyst,10,2016-12-07,46,6.5,1,13650,3.2,8.4,CDI,Oui
+EMP0455,22,Homme,Agadir,Master,Sales,Sales Representative,2,2024-02-01,40,15.1,2,11900,2.3,6.3,CDI,Non
+EMP0098,58,Homme,Tanger,Master,Data,Data Engineer,11,2015-03-13,43,4.2,3,16100,1.5,5.8,CDD,Non
+EMP0158,27,Femme,Rabat,Doctorat,Sales,Sales Analyst,0,2025-07-04,39,11.4,1,16050,2.8,6.4,CDI,Non
+EMP0475,33,Homme,Agadir,Master,Finance,Controller,8,2018-05-01,30,2.4,0,19050,3.1,7.7,CDI,Non
+EMP0502,30,Homme,Rabat,Master,Finance,Financial Analyst,4,2020-07-10,54,5.7,1,14150,2.9,7.4,CDI,Non
+EMP0608,26,Femme,Rabat,Licence,Sales,Sales Representative,6,2018-04-03,40,3.5,4,10750,4.0,8.7,CDD,Oui
+EMP0101,45,Femme,Agadir,Master,IT,Support Engineer,25,2002-08-19,53,10.3,3,24850,3.4,5.4,CDI,Non
+EMP0021,32,Homme,Marrakech,Bac+2,Data,Data Analyst,2,2023-03-21,34,6.1,0,14050,3.5,9.5,CDI,Non
+EMP0084,44,Femme,Marrakech,Bac,Finance,Financial Analyst,18,2008-07-16,35,6.7,3,16950,3.3,8.1,CDI,Non
+EMP0126,45,Femme,Fès,Bac,Sales,Sales Analyst,13,2013-06-10,41,13.7,4,14700,3.6,4.1,CDI,Non
+EMP0104,33,Femme,Rabat,Master,Operations,Operations Analyst,13,2012-02-17,35,4.3,5,15700,3.0,8.4,CDD,Oui
+EMP0400,41,Femme,Casablanca,Master,IT,System Engineer,3,2022-02-08,33,2.3,0,13550,1.9,5.7,CDD,Non
+EMP0511,40,Femme,Rabat,Licence,RH,HR Specialist,0,2025-07-12,51,7.0,2,7250,3.7,6.0,CDD,Oui
+EMP0598,32,Homme,Marrakech,Master,IT,Support Engineer,7,2019-08-20,50,10.3,1,14800,2.9,3.8,CDI,Non
+EMP0334,31,Femme,Casablanca,Master,Operations,Coordinator,8,2017-01-09,40,4.1,3,14800,3.3,6.6,CDI,Non
+EMP0409,41,Femme,Tanger,Doctorat,Data,Data Engineer,15,2011-07-25,52,0.4,2,27700,2.9,7.9,CDI,Non
+EMP0364,39,Homme,Agadir,Licence,Finance,Financial Analyst,6,2020-12-19,38,8.8,4,16000,3.7,8.7,CDI,Non
+EMP0146,28,Homme,Rabat,Master,Sales,Sales Representative,4,2020-04-23,42,9.7,3,11100,2.5,6.8,CDI,Non
+EMP0028,43,Femme,Casablanca,Bac+2,IT,Support Engineer,13,2011-01-25,41,5.6,1,14600,3.7,5.8,CDI,Oui
+EMP0171,35,Homme,Agadir,Master,Sales,Sales Analyst,5,2021-08-27,47,2.9,0,12300,3.0,4.9,CDI,Non
+EMP0473,51,Homme,Fès,Bac+2,RH,Recruiter,14,2010-07-14,53,6.3,1,12300,3.8,6.6,CDI,Non
+EMP0486,35,Femme,Marrakech,Master,Operations,Operations Analyst,12,2013-12-15,44,3.1,1,16650,2.7,7.3,CDI,Non
+EMP0530,34,Femme,Marrakech,Master,IT,System Engineer,3,2021-08-23,49,5.1,1,17350,3.6,7.2,CDI,Non
+EMP0152,23,Femme,Fès,Master,Data,Data Engineer,2,2023-12-12,43,4.9,0,17500,2.9,7.4,CDI,Non
+EMP0052,38,Femme,Casablanca,Master,Operations,Coordinator,8,2016-05-23,32,7.4,3,14200,2.9,4.7,CDI,Non
+EMP0165,44,Homme,Casablanca,Licence,Data,Data Engineer,17,2009-07-06,36,6.1,0,23050,3.6,4.4,CDI,Non
+EMP0070,32,Homme,Marrakech,,Data,Data Analyst,1,2023-12-02,50,5.2,5,11800,2.9,6.6,CDI,Non
+EMP0429,37,Femme,Fès,Bac+2,Operations,Technician,8,2016-02-15,50,3.7,3,11300,3.6,7.8,CDI,Non
+EMP0319,44,Homme,Rabat,Bac+2,Finance,Accountant,5,2020-07-05,41,1.5,1,11250,3.5,6.1,CDI,Non
+EMP0637,37,Femme,Rabat,Master,Finance,Accountant,7,2018-05-04,50,9.5,2,13750,2.4,7.4,Stage,Non
+EMP0433,30,Femme,Tanger,Licence,IT,System Engineer,3,2023-05-10,34,3.2,1,10950,2.9,7.1,CDI,Non
+EMP0360,32,femme,Marrakech,Bac+2,Data,Data Engineer,11,2015-09-19,36,4.4,1,19300,3.5,8.8,CDI,Non
+EMP0198,35,Homme,Fès,Master,IT,Support Engineer,0,2026-12-09,43,5.1,0,13800,3.4,5.7,CDD,Non
+EMP0391,41,Femme,Casablanca,Licence,Operations,Coordinator,2,2022-08-26,46,0.3,3,11350,4.3,8.7,CDD,Oui
+EMP0523,42,Femme,Tanger,,IT,System Engineer,22,2003-04-21,47,11.0,1,23450,3.7,6.1,CDI,Non
+EMP0187,27,Homme,Marrakech,Master,IT,System Engineer,3,2022-10-09,46,5.6,2,15400,3.9,9.7,CDI,Non
+EMP0583,40,Femme,Rabat,Bac+2,RH,HR Analyst,2,2023-01-01,56,2.2,0,8800,3.0,6.7,CDD,Non
+EMP0629,34,Homme,Casablanca,Master,Operations,Technician,9,2015-04-20,47,5.8,1,12950,3.5,6.3,CDI,Non
+EMP0056,49,Homme,Fès,Licence,Sales,Account Manager,26,2002-10-26,46,5.5,2,26850,3.6,5.8,CDI,Oui
+EMP0306,45,Homme,Rabat,Master,Operations,Coordinator,3,2021-10-12,39,2.1,1,13550,3.9,7.3,CDI,Non
+EMP0096,38,Homme,Casablanca,Master,Operations,Coordinator,9,2015-02-07,47,9.0,0,14950,3.0,7.9,CDD,Non
+EMP0596,42,Femme,Rabat,Licence,Data,Data Engineer,20,2005-11-27,45,4.7,1,22750,2.4,7.7,CDI,Non
+EMP0020,41,Homme,Casablanca,Master,Data,Data Engineer,7,2019-06-24,42,7.3,2,19400,3.9,6.0,CDI,Non
+EMP0421,26,Femme,Casablanca,Master,Operations,Operations Analyst,3,2022-08-05,43,2.4,2,13500,3.7,7.5,CDI,Non
+EMP0350,38,Homme,Rabat,Master,RH,HR Specialist,18,2007-06-05,39,8.6,0,15450,3.3,7.3,CDI,Non
+EMP0413,41,Homme,Rabat,Master,Sales,Sales Analyst,18,2006-12-16,47,10.0,0,21950,4.1,5.0,Stage,Oui
+EMP0462,27,Homme,Casablanca,Licence,RH,Recruiter,6,2019-11-27,45,5.2,0,9900,3.3,7.0,CDI,Non
+EMP0144,21,Femme,Casablanca,Master,Data,BI Analyst,1,2023-09-06,39,3.7,1,15200,3.6,7.3,CDD,Non
+EMP0136,36,Homme,Fès,Bac+2,Sales,Sales Analyst,3,2023-03-23,35,13.8,2,9700,2.1,6.1,CDI,Non
+EMP0282,29,Femme,Tanger,Bac+2,IT,Network Engineer,5,2019-04-03,37,4.3,1,13850,3.3,8.6,CDI,Oui
+EMP0381,36,Homme,Casablanca,Licence,IT,System Engineer,10,2016-11-15,48,6.8,0,18900,2.8,6.1,CDD,Non
+EMP0535,53,Homme,Tanger,Licence,Sales,Sales Representative,11,2013-10-27,32,7.6,0,15250,3.4,6.7,CDI,Non
+EMP0241,54,Homme,Rabat,Master,RH,Recruiter,30,2002-01-24,45,4.1,1,22950,3.6,7.8,CDI,Non
+EMP0587,41,Homme,Tanger,Master,IT,Support Engineer,19,2007-08-25,37,4.0,1,19850,3.4,5.4,Stage,Non
+EMP0155,34,Homme,Marrakech,Licence,Operations,Operations Analyst,0,2026-01-03,35,8.1,3,7750,2.3,8.9,CDI,Non
+EMP0404,39,Homme,Rabat,Master,Operations,Coordinator,7,2018-12-06,51,6.8,0,12800,3.3,5.8,CDI,Non
+EMP0183,23,Femme,Fès,Doctorat,Operations,Operations Analyst,0,2025-04-18,43,2.1,2,11150,1.1,9.3,CDI,Non
+EMP0443,26,Homme,Rabat,Doctorat,Sales,Account Manager,6,2019-04-20,32,8.9,1,17900,3.7,5.4,CDI,Non
+EMP0305,39,Homme,Rabat,Master,Finance,Controller,14,2010-01-25,40,3.3,1,21000,3.4,8.2,CDD,Non
+EMP0133,44,Homme,Casablanca,Master,Sales,Sales Representative,13,2011-01-01,38,5.9,1,16900,3.0,7.2,CDI,Non
+EMP0121,32,Femme,Casablanca,Master,Operations,Operations Analyst,1,2025-09-06,48,2.7,1,13800,4.2,7.8,CDD,Non
+EMP0042,36,Femme,Marrakech,Master,Sales,Sales Analyst,15,2011-11-06,42,6.0,3,15950,2.7,7.3,CDI,Non
+EMP0026,28,Femme,Fès,Bac+2,Finance,Controller,7,2017-01-02,39,2.2,2,14400,3.6,8.6,CDI,Non
+EMP0588,32,Homme,Rabat,Bac+2,Finance,Controller,11,2014-08-02,49,7.7,3,12800,3.5,6.2,CDI,Oui
+EMP0111,43,Femme,Casablanca,Licence,Data,Data Engineer,3,2023-04-11,41,1.6,1,15050,4.7,9.5,CDI,Oui
+EMP0012,37,Homme,Casablanca,Master,RH,HR Analyst,5,2021-10-06,39,9.4,0,15000,4.1,5.2,CDI,Non
+EMP0415,53,Homme,Fès,Master,Sales,Sales Analyst,2,2024-02-18,49,12.7,2,11050,3.0,4.7,CDI,Non
+EMP0617,24,Homme,Tanger,Master,Operations,Technician,4,2020-04-08,42,8.3,1,12750,3.2,8.3,CDI,Non
+EMP0037,40,Homme,Casablanca,Master,Sales,Sales Representative,18,2008-01-01,44,4.5,1,19450,3.2,6.9,Stage,Non
+EMP0352,32,Homme,Marrakech,Bac,IT,Network Engineer,10,2015-06-20,36,10.5,1,13150,2.8,7.6,CDI,Non
+EMP0446,31,Homme,Casablanca,Master,Operations,Coordinator,2,2022-11-05,36,5.2,1,13450,4.5,7.0,CDD,Oui
+EMP0045,38,Femme ,Marrakech,Doctorat,Data,,5,2020-08-20,51,2.9,1,21750,3.7,6.7,CDI,Non
+EMP0130,35,Homme,Marrakech,Master,Operations,Coordinator,5,2020-09-17,42,2.5,2,15000,2.2,7.2,Stage,Non
+EMP0246,27,Homme,Casablanca,Licence,IT,Support Engineer,7,2019-11-12,43,5.2,2,15100,4.2,5.8,Stage,Non
+EMP0534,27,Homme,Casablanca,Licence,RH,HR Analyst,1,2024-09-05,36,10.0,0,9450,3.3,5.5,CDI,Non
+EMP0100,24,Femme,Marrakech,Master,Sales,Account Manager,2,2022-07-20,47,5.6,1,15200,4.0,9.8,CDI,Non
+EMP0074,30,Femme,Tanger,Bac+2,Finance,Financial Analyst,1,2023-03-01,44,1.4,1,12250,4.3,,CDI,Non
+EMP0280,40,Homme,Tanger,Master,IT,,15,2010-12-13,42,4.9,0,17900,4.0,9.5,CDI,Non
+EMP0323,33,Femme,Rabat,Master,Sales,Sales Representative,5,2020-08-05,47,0.9,1,11300,3.1,6.8,CDI,Non
+EMP0002,28,Homme,Tanger,Licence,Operations,Operations Analyst,6,2020-04-06,55,3.6,1,11850,4.0,,CDI,Non
+EMP0283,43,Femme,Fès,Bac+2,IT,Network Engineer,18,2008-09-06,42,5.2,1,17150,3.0,6.7,CDI,Non
+EMP0529,48,Homme,Casablanca,Doctorat,Sales,Sales Representative,12,2014-02-09,43,14.0,0,19850,2.6,4.9,CDI,Non
+EMP0068,42,Femme,Marrakech,Licence,RH,HR Analyst,12,2014-06-24,34,10.3,2,11900,3.1,8.0,CDI,Non
+EMP0170,38,Homme,Rabat,Licence,Finance,Financial Analyst,0,2025-03-01,46,3.3,1,11950,4.1,5.8,CDI,Oui
+EMP0085,26,Homme,Fès,Master,Sales,Account Manager,3,2022-02-14,45,4.2,2,13650,2.9,6.4,CDI,Non
+EMP0627,38,Homme,Marrakech,Licence,Sales,Sales Representative,18,2007-08-15,31,7.8,2,16850,3.0,7.1,CDI,Non
+EMP0032,35,Homme,Tanger,Master,RH,HR Specialist,12,2012-06-05,36,14.3,2,14050,4.6,6.4,CDI,Non
+EMP0174,35,Femme,Casablanca,Master,Operations,Coordinator,7,2018-03-06,40,6.1,1,11350,,5.2,CDI,Oui
+EMP0228,26,Homme,Tanger,Master,Finance,Controller,6,2019-06-03,41,1.6,0,17050,4.0,7.0,CDI,Non
+EMP0159,41,Femme,Casablanca,Licence,Data,Data Engineer,3,2023-05-14,41,10.8,1,15700,3.2,7.1,CDI,Non
+EMP0382,28,Femme,Fès,Licence,Finance,Financial Analyst,4,2021-03-21,43,9.1,2,15250,4.0,7.4,CDD,Non
+EMP0445,32,Homme,Rabat,Master,Sales,Account Manager,10,2015-04-11,46,1.6,1,18650,3.5,6.3,CDI,Non
+EMP0163,27,Homme,Rabat,Bac+2,Operations,Technician,5,2021-12-15,44,2.3,1,8800,2.9,7.0,CDI,Non
+EMP0517,38,Femme,Marrakech,Licence,Sales,Sales Analyst,10,2014-10-01,49,3.2,1,15600,4.0,8.0,CDI,Non
+EMP0168,36,Homme,Marrakech,Master,RH,HR Specialist,14,2010-01-08,43,4.6,0,16550,3.3,7.1,CDI,Non
+EMP0589,39,Homme,Casablanca,Bac+2,RH,HR Analyst,18,2007-06-24,33,10.9,1,18100,4.0,4.9,CDI,Oui
+EMP0244,32,Homme,Tanger,Licence,Operations,Operations Analyst,1,2024-07-25,42,22.0,2,8550,3.9,5.7,CDI,Non
+EMP0419,36,Homme,Casablanca,Bac+2,RH,HR Specialist,10,2016-04-07,42,8.2,2,10700,2.6,6.3,CDI,Non
+EMP0118,37,Femme,Rabat,Licence,Sales,Sales Representative,10,2016-02-17,49,2.8,1,12100,2.4,7.6,CDI,Non
+EMP0184,34,Femme,Casablanca,Bac+2,Finance,Financial Analyst,5,2019-08-27,33,5.1,4,14650,1.9,7.0,CDI,Non
+EMP0551,50,Femme,Fès,Licence,Sales,Sales Representative,21,2003-06-04,45,2.6,1,22600,5.0,8.7,CDI,Non
+EMP0234,57,Homme,Casablanca,Bac+2,Data,BI Analyst,29,2002-03-02,39,6.6,1,27950,4.0,5.4,Stage,Non
+EMP0265,29,Femme,Tanger,Licence,Finance,Financial Analyst,0,2024-03-06,42,5.3,1,12150,3.7,6.5,CDI,Non
+EMP0620,47,Homme,Fès,Licence,IT,System Engineer,26,2002-07-11,43,2.3,1,23750,3.0,6.6,CDI,Non
+EMP0580,47,Homme,Agadir,Bac+2,Operations,Operations Analyst,5,2019-07-21,42,3.1,1,11100,3.7,7.5,CDI,Non
+EMP0167,31,Homme,Tanger,Bac+2,Data,BI Analyst,7,2019-01-05,45,4.0,1,12350,2.7,8.3,CDI,Non
+EMP0403,45,Femme,Agadir,Bac,IT,Network Engineer,17,2009-03-12,49,4.5,0,21800,4.0,6.6,CDI,Oui
+EMP0610,40,Homme,Rabat,Master,Sales,Account Manager,5,2020-06-11,44,4.7,2,18750,4.3,6.0,CDI,Non
+EMP0229,35,Homme,Agadir,Master,Finance,Controller,12,2014-09-18,52,2.6,4,19500,4.3,8.6,CDI,Non
+EMP0150,39,Femme,Marrakech,Bac+2,Operations,Coordinator,10,2014-01-23,38,10.8,0,16600,4.0,6.0,CDI,Non
+EMP0125,41,Femme,Rabat,Master,Sales,Account Manager,18,2007-05-07,44,1.1,0,18850,2.9,8.1,CDI,Oui
+EMP0477,46,Homme,Casablanca,Master,Finance,Controller,24,2002-10-24,37,3.7,0,25600,3.8,6.4,CDI,Non
+EMP0356,22,Femme,Agadir,Master,Sales,Sales Analyst,2,2024-08-10,44,7.1,2,13600,3.4,8.4,CDI,Non
+EMP0533,21,Femme,Marrakech,Doctorat,Finance,Financial Analyst,1,2024-05-21,42,2.3,0,14000,1.8,5.4,CDI,Non
+EMP0067,31,Homme,Rabat,Master,Sales,Account Manager,11,2013-10-19,39,7.5,1,17100,3.4,7.2,CDI,Oui
+EMP0107,33,Homme,Casablanca,Master,Sales,Sales Analyst,12,2012-12-12,49,5.0,0,19250,4.0,7.3,CDI,Non
+EMP0435,29,Homme,Casablanca,Master,Operations,Operations Analyst,5,2021-11-20,53,17.4,0,14000,3.5,7.2,CDD,Non
+EMP0271,36,Femme,Casablanca,Licence,Operations,Technician,2,2022-04-24,41,15.9,1,11200,4.0,6.7,CDI,Non
+EMP0592,42,Homme,Casablanca,,Sales,Sales Analyst,10,2014-12-03,44,11.2,1,16450,3.1,7.2,CDI,Non
+EMP0060,40,Homme,Casablanca,Master,Data,Data Engineer,14,2010-12-19,48,1.6,1,22400,4.3,7.0,CDI,Non
+EMP0649,27,Homme,Tanger,Bac+2,Operations,Technician,5,2020-02-11,44,1.0,4,9200,3.4,6.7,CDI,Non
+EMP0248,42,Homme,Tanger,Bac,RH,HR Analyst,15,2009-02-09,44,11.4,1,14750,4.2,6.7,CDI,Non
+EMP0405,36,Homme,Casablanca,Bac,Data,Data Engineer,14,2012-07-19,50,3.8,0,22950,4.3,6.3,Stage,Oui
+EMP0279,30,Homme,Casablanca,Master,Operations,Coordinator,5,2019-07-02,49,0.7,2,14850,4.0,7.3,CDI,Non
+EMP0330,40,Homme,Agadir,Licence,IT,System Engineer,6,2018-08-01,41,7.2,2,18600,3.7,7.3,CDI,Non
+EMP0309,44,Femme,Rabat,Master,Operations,Coordinator,12,2013-10-04,47,12.2,1,18800,4.2,6.2,CDI,Non
+EMP0571,40,Femme,Marrakech,Master,IT,System Engineer,8,2017-12-16,37,3.9,2,17500,2.8,7.3,CDI,Non
+EMP0141,38,Femme,Casablanca,Bac+2,RH,Recruiter,1,2024-03-06,44,9.4,4,7700,4.4,7.3,CDI,Non
+EMP0154,38,Femme,Casablanca,Bac,Sales,Account Manager,13,2011-10-11,41,4.9,1,16550,5.0,7.0,CDI,Oui
+EMP0402,47,Homme,Casablanca,Licence,Finance,Financial Analyst,27,2002-01-25,45,7.3,3,24350,4.0,8.0,CDD,Non
+EMP0512,40,Homme,Marrakech,Licence,Finance,Financial Analyst,11,2015-10-04,50,3.3,2,17600,3.9,7.3,CDI,Non
+EMP0178,35,Homme,Casablanca,Master,Operations,Operations Analyst,6,2019-08-04,36,5.7,0,14000,3.5,6.1,CDD,Non
+EMP0457,32,Femme,Casablanca,Licence,IT,Network Engineer,2,2022-12-01,45,8.2,1,11100,2.6,6.8,CDI,Non
+EMP0452,50,Femme,Agadir,Master,Data,BI Analyst,21,2003-06-11,53,14.8,0,23450,3.9,6.6,CDD,Oui
+EMP0520,27,Femme,Rabat,Licence,Operations,Coordinator,0,2025-08-02,44,2.4,1,7450,4.5,6.0,CDI,Non
+EMP0559,42,Femme,Rabat,Doctorat,Operations,Coordinator,4,2021-11-13,43,1.2,0,14500,3.4,6.0,CDI,Non
+EMP0496,41,Femme,Agadir,Master,Sales,Sales Analyst,6,2018-01-27,45,6.6,2,12600,4.5,6.6,CDI,Non
+EMP0394,33,Femme,,Bac+2,Sales,Sales Representative,2,2024-05-15,45,9.1,1,8750,3.8,5.0,CDD,Non
+EMP0465,33,Homme,Fès,Licence,Sales,Account Manager,8,2016-06-24,78,0.6,1,16850,2.7,9.5,CDD,Non
+EMP0638,36,Homme,Rabat,Bac+2,Operations,Operations Analyst,16,2009-02-10,39,5.6,1,14300,4.2,9.3,CDD,Non
+EMP0116,41,Homme,Fès,Bac+2,Sales,Sales Analyst,18,2006-01-17,47,1.5,2,15600,2.3,6.4,CDI,Non
+EMP0161,30,Femme,Casablanca,Licence,Operations,Coordinator,6,2018-06-11,45,5.8,2,11650,,6.7,CDI,Non
+EMP0077,42,Femme,Tanger,Licence,IT,Support Engineer,22,2003-04-03,44,4.3,2,20200,2.9,6.9,CDD,Oui
+EMP0069,44,Femme,Casablanca,Master,Finance,Accountant,3,2023-07-15,41,2.1,1,15450,2.7,7.2,CDI,Non
+EMP0036,32,Homme,,Bac+2,RH,HR Specialist,3,2021-06-21,43,13.3,3,11300,3.5,7.2,Stage,Non
+EMP0207,36,Homme,Rabat,Master,Operations,Coordinator,14,2011-11-24,42,5.8,2,18350,3.3,9.0,CDI,Non
+EMP0323,33,Femme,Rabat,Master,Sales,Sales Representative,5,2020-08-05,47,0.9,1,11300,3.1,6.8,CDI,Non
+EMP0388,44,Femme,Casablanca,Licence,IT,System Engineer,16,2009-03-07,37,6.8,2,19150,3.5,4.7,CDI,Non
+EMP0503,34,Homme,Tanger,Master,Data,BI Analyst,6,2019-03-10,55,7.5,2,17350,3.7,9.2,CDI,Non
+EMP0377,46,Homme,Casablanca,Master,Data,Data Analyst,15,2011-08-13,48,1.4,1,18100,4.4,4.4,CDI,Non
+EMP0199,35,Femme,Casablanca,Bac+2,RH,Recruiter,8,2018-05-11,46,7.2,2,11400,3.3,3.5,CDI,Non
+EMP0061,26,Femme,Rabat,Licence,Operations,Operations Analyst,1,2024-01-01,42,7.9,3,10550,3.3,7.4,CDI,Non
+EMP0308,32,Homme,Marrakech,Master,Data,Data Engineer,4,2021-01-12,36,14.4,2,19850,3.4,8.4,CDI,Non
+EMP0124,32,Homme,Casablanca,Bac,Sales,Sales Analyst,6,2019-10-14,47,5.2,1,10150,3.1,8.1,CDI,Oui
+EMP0059,44,Femme,Marrakech,Licence,Sales,Sales Representative,9,2015-01-04,48,1.2,1,14650,4.4,7.8,CDI,Non
+EMP0470,43,Homme,Rabat,Bac+2,Operations,Coordinator,7,2018-06-04,72,12.2,0,14350,3.0,7.1,CDI,Non
+EMP0075,35,Femme,Rabat,Bac+2,IT,Network Engineer,5,2021-05-12,34,1.1,1,11850,3.0,6.8,CDD,Non
+EMP0469,32,Homme,Tanger,Master,IT,System Engineer,0,2025-01-26,52,3.9,1,14700,3.4,5.7,CDI,Non
+EMP0046,38,Homme,Rabat,Master,IT,System Engineer,9,2017-03-03,46,1.7,1,15850,2.8,8.3,CDD,Non
+EMP0209,39,Femme,Tanger,Master,RH,HR Specialist,19,2007-05-04,48,9.5,0,17100,3.1,7.5,CDI,Oui
+EMP0097,35,Femme,Tanger,Master,Sales,Account Manager,9,2017-03-01,39,10.6,2,16800,3.8,6.9,CDI,Non
+EMP0079,22,Homme,Marrakech,Bac+2,Operations,Operations Analyst,2,2022-11-05,42,9.3,2,7300,2.7,8.2,CDI,Non
+EMP0365,24,Homme,Agadir,Doctorat,Sales,Sales Representative,0,2025-11-10,49,9.2,1,14650,3.7,8.7,CDI,Non
+EMP0290,43,Femme,Casablanca,Doctorat,IT,System Engineer,23,2003-03-03,49,9.8,2,22900,3.0,5.1,CDD,Non
+EMP0468,30,Homme,Casablanca,Licence,Sales,Account Manager,5,2021-12-27,49,9.2,1,13050,3.7,6.9,CDI,Non
+EMP0089,21,Femme,Marrakech,Master,Sales,Account Manager,0,2026-10-02,46,9.6,2,15000,3.1,6.0,CDI,Non
+EMP0128,32,Femme,Rabat,Licence,IT,Support Engineer,7,2017-02-04,48,1.8,2,13100,3.3,6.2,CDI,Non
+EMP0491,31,Femme,Casablanca,Licence,RH,HR Specialist,7,2018-09-16,46,9.3,1,12000,3.2,5.2,CDD,Non
+EMP0369,41,Femme,Casablanca,Licence,IT,System Engineer,21,2003-11-15,45,8.5,0,20700,2.8,7.1,CDI,Oui
+EMP0003,36,Homme,Marrakech,Bac+2,Sales,Sales Analyst,2,2023-12-12,52,6.4,2,11600,2.3,7.6,CDI,Non
+EMP0081,42,Femme,Casablanca,Licence,IT,Support Engineer,19,2005-04-19,45,1.6,3,18700,2.6,5.7,CDI,Non
+EMP0041,22,Femme,Casablanca,Master,IT,Network Engineer,0,2024-10-14,41,12.2,2,15500,4.3,8.2,CDI,Non
+EMP0304,51,Homme,Casablanca,Master,Finance,Accountant,20,2006-01-18,42,12.1,1,20050,3.6,5.6,CDI,Non
+EMP0641,42,Homme,Tanger,Bac+2,Sales,Sales Representative,2,2024-11-15,41,4.9,4,13250,3.8,9.1,CDI,Non
+EMP0472,38,Homme,Casablanca,Master,Data,BI Analyst,1,2023-12-27,47,5.3,0,16750,2.6,7.5,CDI,Non
+EMP0351,33,Femme,Casablanca,Master,IT,Support Engineer,2,2024-01-24,44,2.7,0,14200,2.7,8.5,CDI,Non
+EMP0148,22,Homme,Casablanca,Licence,Sales,Sales Representative,1,2024-10-23,43,7.2,1,10600,4.0,5.5,CDI,Non
+EMP0092,25,Femme,Tanger,Bac+2,Operations,Operations Analyst,5,2021-10-25,40,9.3,0,11400,3.9,6.5,CDI,Non
+EMP0203,23,Femme,Tanger,Licence,Operations,Operations Analyst,0,2026-11-22,41,5.6,0,13700,,7.7,CDI,Non
+EMP0288,31,Homme,Casablanca,Licence,Data,BI Analyst,7,2019-03-19,50,10.4,4,17400,3.5,7.8,CDI,Non
+EMP0202,41,Homme,Agadir,,Sales,Sales Representative,17,2007-09-01,47,6.2,0,19100,3.7,3.6,CDI,Oui
+EMP0449,34,Femme,Marrakech,Master,IT,Support Engineer,1,2025-12-14,37,0.4,4,13550,4.0,7.8,CDI,Non
+EMP0269,35,Homme,Fès,Bac+2,Operations,Technician,12,2014-10-01,37,12.8,2,9750,3.0,7.5,CDI,Non
+EMP0546,32,Femme,Casablanca,Bac+2,Finance,Financial Analyst,5,2020-06-12,46,8.9,2,13150,3.8,7.3,Stage,Non
+EMP0044,33,Homme,Marrakech,Master,RH,HR Specialist,8,2018-03-22,45,8.2,0,16500,3.0,8.9,CDI,Non
+EMP0205,21,Homme,Casablanca,Master,Operations,Coordinator,0,2025-06-23,44,3.9,3,10050,2.3,8.8,CDI,Non
+EMP0181,29,Homme,Marrakech,Licence,IT,System Engineer,5,2020-04-04,40,1.2,0,12100,2.9,7.7,CDI,Non
+EMP0406,33,Femme,Tanger,Bac+2,Finance,Accountant,3,2021-06-26,41,5.0,2,10850,2.0,8.1,CDI,Non
+EMP0480,25,Homme,Casablanca,Bac,RH,HR Analyst,5,2019-07-04,55,6.2,0,5700,3.9,6.3,CDI,Oui
+EMP0263,27,Homme,Casablanca,Bac,Sales,Sales Representative,5,2020-02-27,44,7.5,1,9400,,6.6,CDI,Non
+EMP0087,46,Homme,Fès,Bac,Operations,Operations Analyst,24,2002-11-10,42,7.0,0,19350,3.7,7.7,CDI,Non
+EMP0257,34,Homme,Tanger,Licence,Finance,Accountant,5,2021-09-22,40,3.1,3,13050,4.6,5.4,CDI,Non
+EMP0215,32,Femme,Marrakech,Master,Finance,Controller,4,2021-08-19,42,1.4,2,18350,4.1,7.8,CDD,Non
+EMP0164,28,Homme,Casablanca,Bac,RH,HR Specialist,5,2020-05-10,42,1.5,1,9250,3.5,7.6,CDI,Non
+EMP0259,31,Homme,Casablanca,Licence,Operations,Operations Analyst,0,2026-11-18,36,4.5,1,9900,3.4,6.6,CDI,Non
+EMP0528,32,Femme,Casablanca,Licence,Sales,Sales Representative,12,2012-07-22,46,5.1,2,12750,3.5,,CDI,Non
+EMP0396,44,Homme,Fès,Master,Finance,Controller,22,2003-09-22,41,12.2,3,23700,4.2,7.1,CDI,Oui
+EMP0399,45,Homme,Tanger,Master,Operations,Technician,20,2004-03-24,45,8.7,2,17300,1.5,6.9,Stage,Non
+EMP0230,27,Femme,Casablanca,Bac+2,IT,System Engineer,7,2017-02-27,44,4.0,1,12800,3.6,6.8,CDI,Non
+EMP0211,30,Homme,Tanger,Master,Finance,Controller,7,2019-04-06,50,17.9,0,19700,4.7,5.3,CDI,Non
+EMP0222,32,Homme,Tanger,Master,RH,HR Specialist,10,2014-12-12,43,9.7,2,13750,4.2,8.0,CDI,Non
+EMP0189,29,Femme,Casablanca,Bac+2,RH,HR Specialist,8,2017-01-25,38,5.8,2,11150,2.7,7.7,CDD,Non
+EMP0397,47,Homme,Casablanca,Bac,Finance,Accountant,6,2019-06-11,36,6.0,2,9650,2.0,6.9,CDI,Oui
+EMP0324,21,Homme,Casablanca,Master,IT,Support Engineer,1,2024-12-11,33,5.1,3,15300,4.3,5.9,CDD,Non
+EMP0650,38,Homme,Rabat,Licence,Finance,Accountant,6,2020-06-02,50,8.0,0,12550,4.5,6.0,CDI,Non
+EMP0266,41,Femme,Casablanca,Bac+2,Data,Data Analyst,10,2016-08-06,53,4.8,1,16700,3.5,5.2,CDI,Oui
+EMP0584,39,Homme,Rabat,Master,Data,Data Engineer,1,2024-11-21,40,3.2,1,17250,2.4,7.3,CDI,Non
+EMP0410,35,Homme,Agadir,Licence,Sales,Sales Analyst,9,2017-08-03,48,1.6,0,16700,3.7,7.8,CDI,Oui
+EMP0277,43,Homme,Casablanca,Master,Operations,Coordinator,17,2008-06-18,41,8.2,2,19900,3.6,5.8,CDI,Non
+EMP0548,40,Homme,Casablanca,Master,Operations,Technician,20,2006-10-22,41,2.4,1,18950,3.6,7.7,CDD,Oui
+EMP0375,32,Homme,Rabat,Master,Sales,Sales Analyst,4,2021-09-23,40,5.6,2,16300,2.9,5.7,CDI,Non
+EMP0544,33,Femme,Agadir,Bac+2,Operations,Coordinator,8,2016-03-14,46,2.1,0,11250,4.0,6.8,CDI,Non
+EMP0408,52,Femme,Marrakech,Bac+2,Sales,Sales Representative,5,2019-09-19,42,1.9,2,8950,2.7,9.1,CDD,Non
+EMP0048,38,Homme,Casablanca,Licence,Operations,Technician,16,2009-09-18,37,0.7,0,15700,3.7,5.7,CDI,Non
+EMP0015,38,Homme,Marrakech,Licence,Operations,Technician,14,2010-01-11,45,8.2,4,18100,3.5,4.9,CDI,Non
+EMP0507,41,Homme,Fès,Doctorat,Finance,Accountant,10,2016-02-09,49,6.4,1,17000,2.7,7.1,Stage,Non
+EMP0022,37,Femme,Rabat,Master,IT,System Engineer,13,2013-10-07,46,1.2,2,19450,4.0,8.4,CDI,Non
+EMP0337,31,Femme,Casablanca,Master,Data,Data Engineer,11,2015-09-01,39,2.1,0,21350,3.1,6.0,Stage,Non
+EMP0412,41,Homme,Fès,Licence,Sales,Sales Analyst,2,2023-02-17,41,8.9,0,13950,5.0,8.2,CDI,Non
+EMP0322,21,Homme,Casablanca,Licence,Sales,Account Manager,0,2024-07-03,47,8.5,1,12450,3.7,5.0,CDI,Non
+EMP0618,31,Femme,Agadir,Master,Sales,Sales Analyst,2,2023-01-04,43,2.4,5,14100,3.6,9.2,CDD,Non
+EMP0639,29,Homme,Casablanca,Licence,IT,Support Engineer,1,2025-08-08,46,1.2,1,14150,3.8,7.0,CDI,Non
+EMP0568,42,femme,Casablanca,Master,IT,Support Engineer,10,2014-05-09,35,2.7,2,16950,2.7,9.8,CDI,Non
+EMP0354,48,Femme,Casablanca,Bac,RH,HR Specialist,27,2002-04-24,45,10.3,1,19600,3.8,5.4,CDI,Non
+EMP0265,29,Femme,Tanger,Licence,Finance,Financial Analyst,0,2024-03-06,42,5.3,1,12150,3.7,6.5,CDI,Non
+EMP0299,31,Homme,Tanger,Licence,Operations,Technician,11,2015-01-17,43,10.7,2,12350,4.0,4.2,CDI,Non
+EMP0303,25,Homme,Marrakech,Master,Operations,Coordinator,4,2021-10-21,48,10.4,2,13450,4.3,7.4,CDD,Non
+EMP0113,41,Homme,Marrakech,Licence,Finance,Accountant,14,2011-09-02,33,2.5,3,13000,4.1,8.5,CDI,Non
+EMP0086,42,Homme,Tanger,Bac+2,RH,HR Analyst,2,2022-02-16,43,2.7,1,10150,3.4,7.1,CDI,Non
+EMP0149,52,Homme,,Bac,Data,Data Engineer,11,2015-10-18,44,5.7,0,19850,3.7,6.6,CDD,Non
+EMP0387,28,Homme,Marrakech,Bac,IT,Support Engineer,0,2024-09-05,44,5.6,0,9700,3.7,8.1,CDI,Non
+EMP0581,34,Femme,Casablanca,Master,Sales,Sales Representative,11,2015-11-22,43,8.1,1,15700,2.8,7.1,CDI,Non
+EMP0604,33,Homme,Marrakech,Licence,Sales,Sales Representative,1,2025-09-26,38,3.0,2,8400,2.9,,CDD,Non
+EMP0519,46,Homme,Rabat,Master,Sales,Account Manager,17,2007-01-18,49,8.1,1,19600,3.0,8.7,CDD,Non
+EMP0509,37,Femme,Agadir,Master,Finance,Accountant,5,2021-01-19,46,2.3,1,13400,3.2,9.3,CDI,Non
+EMP0447,31,Homme,Casablanca,Master,IT,Support Engineer,9,2015-12-12,40,5.2,3,16550,3.6,6.0,CDI,Non
+EMP0176,32,Homme,Agadir,Doctorat,RH,HR Analyst,2,2022-12-27,43,7.3,0,15450,3.4,7.2,CDD,Non
+EMP0024,40,Homme,Fès,Master,Operations,Technician,4,2022-11-12,43,10.3,1,10700,3.6,6.4,CDI,Non
+EMP0543,34,Homme,Casablanca,,Data,BI Analyst,10,2014-10-18,40,3.9,1,19500,2.9,6.0,CDD,Non
+EMP0065,36,Homme,Rabat,Bac,RH,HR Analyst,16,2010-10-22,47,14.4,0,11550,3.6,5.6,CDI,Non
+EMP0195,40,Femme,Tanger,Bac+2,IT,System Engineer,7,2018-05-27,39,9.4,1,14300,3.2,6.4,CDD,Non
+EMP0216,41,Homme,Tanger,Master,Sales,Sales Representative,4,2022-04-23,42,8.3,2,15050,2.6,6.1,CDI,Non
+EMP0258,37,Homme,Rabat,Bac+2,Sales,Account Manager,11,2013-07-03,34,4.1,0,19650,4.4,6.6,CDI,Oui
+EMP0004,43,Homme,Rabat,Master,IT,Support Engineer,22,2004-03-13,51,5.0,1,20550,3.7,5.1,CDI,Non
+EMP0614,40,Homme,Rabat,Bac,Sales,Sales Analyst,7,2019-05-06,48,2.9,2,15750,4.9,4.8,CDI,Non
+EMP0218,45,Homme,Casablanca,Licence,IT,Network Engineer,5,2019-07-08,45,2.9,3,14900,3.2,6.7,CDI,Non
+EMP0239,46,Homme,Rabat,Licence,Data,Data Engineer,19,2006-03-13,43,9.9,2,24800,3.2,4.1,CDI,Oui
+EMP0094,48,Femme,Fès,Master,Sales,Sales Analyst,0,2026-07-19,43,3.7,1,9300,2.7,6.0,CDD,Non
+EMP0497,37,Femme,Marrakech,Master,Sales,Sales Representative,7,2019-06-20,42,13.0,3,12050,2.1,6.0,CDI,Non
+EMP0314,45,Homme,Rabat,Master,Finance,Financial Analyst,24,2002-07-20,42,14.4,1,24000,2.8,5.2,CDI,Non
+EMP0252,33,Homme,Fès,Master,RH,HR Specialist,8,2017-02-15,40,4.6,2,13900,3.2,6.2,CDI,Oui
+EMP0593,33,Femme,Casablanca,,Operations,Technician,11,2014-10-27,42,12.4,0,12000,4.2,4.3,CDD,Non
+EMP0134,37,Homme,Tanger,Doctorat,Sales,Sales Analyst,0,2026-06-26,46,2.2,1,12850,2.9,6.8,CDD,Non
+EMP0273,29,Femme,Rabat,Master,IT,Network Engineer,8,2017-06-23,43,5.4,2,17800,3.8,5.2,CDI,Non
+EMP0307,34,Femme,Casablanca,Bac+2,IT,Network Engineer,5,2019-03-25,39,2.1,1,15800,3.4,6.8,CDI,Non
+EMP0434,42,Homme,Fès,Master,Finance,Controller,19,2007-09-02,35,6.8,0,20600,3.7,7.5,CDI,Non
+EMP0605,35,Homme,Casablanca,Licence,Finance,Financial Analyst,11,2014-06-06,59,7.2,1,18600,4.5,5.2,CDI,Oui
+EMP0355,42,Homme,Marrakech,Master,Data,BI Analyst,20,2006-06-07,53,1.0,5,23500,4.6,7.3,CDI,Oui
+EMP0073,22,homme,Rabat,Master,Finance,Accountant,2,2023-09-02,46,13.6,3,13000,3.1,5.1,CDI,Non
+EMP0017,24,Homme,Rabat,Bac,Sales,Sales Representative,4,2020-04-15,39,4.2,0,7500,3.9,7.9,CDI,Non
+EMP0343,33,Homme,Casablanca,Master,IT,Network Engineer,13,2012-05-19,37,10.5,2,22350,2.8,6.6,CDI,Non
+EMP0376,32,Femme,Marrakech,Licence,Operations,Coordinator,8,2018-04-02,48,10.0,2,13400,2.8,5.5,CDI,Non
+EMP0162,43,Femme,Casablanca,,RH,HR Specialist,20,2004-09-02,36,5.4,0,17400,3.2,8.3,CDI,Non
+EMP0395,45,Homme,Agadir,Bac+2,Finance,Accountant,16,2008-03-01,42,6.0,4,16800,4.5,5.9,Stage,Non
+EMP0057,36,HOMME,Fès,Master,Operations,Technician,3,2023-02-15,43,10.4,0,11500,3.8,7.6,CDD,Non
+EMP0458,34,Homme,Casablanca,Master,IT,Support Engineer,14,2012-05-04,54,2.5,1,17700,3.3,6.8,CDD,Non
+EMP0368,58,Femme,Agadir,Licence,Finance,Financial Analyst,13,2011-08-13,40,8.2,0,14200,4.5,6.4,CDI,Non
+EMP0318,39,Homme,Agadir,Master,Data,Data Engineer,3,2022-06-13,52,17.0,3,17450,2.8,5.7,Stage,Non
+EMP0217,42,Femme,Tanger,Master,Sales,Sales Analyst,16,2010-12-07,43,16.3,1,17300,3.3,2.5,CDI,Non
+EMP0631,38,Homme,Tanger,Doctorat,Operations,Coordinator,4,2021-12-09,32,1.3,4,11950,2.5,4.6,CDI,Non
+EMP0461,48,Homme,Agadir,Master,Sales,Sales Representative,10,2015-08-27,41,14.5,3,15400,2.9,4.1,CDI,Non
+EMP0175,42,Homme,Marrakech,Bac+2,Sales,Account Manager,2,2023-07-20,42,10.1,3,11200,3.6,3.2,Stage,Non
+EMP0440,44,Homme,Casablanca,Master,IT,System Engineer,4,2020-06-18,35,12.4,1,13800,3.4,6.6,CDD,Non
+EMP0310,39,Homme,Agadir,Master,IT,System Engineer,12,2013-05-10,45,12.6,1,19650,2.5,7.7,CDD,Non
+EMP0180,40,Femme,Casablanca,Master,Data,Data Analyst,5,2020-07-21,48,4.5,1,17400,4.5,7.1,CDI,Non
+EMP0009,28,Homme,Rabat,Bac+2,Data,Data Analyst,2,2023-11-27,36,17.9,4,12800,2.9,7.5,CDI,Oui
+EMP0139,32,Homme,Agadir,Master,Data,BI Analyst,3,2022-01-23,50,4.6,1,13550,3.5,6.0,CDI,Non
+EMP0484,49,Homme,Tanger,Bac+2,Sales,Sales Analyst,28,2002-08-27,41,12.2,2,21400,3.8,5.8,CDI,Non
+EMP0108,41,Homme,Marrakech,Bac+2,Finance,Accountant,17,2009-12-21,37,4.2,0,17750,2.8,6.2,CDI,Non
+EMP0298,40,Homme,Rabat,Bac+2,Finance,Financial Analyst,8,2016-09-19,39,8.4,1,11550,2.8,7.6,CDI,Non
+EMP0231,38,Femme,Casablanca,Master,Operations,Coordinator,0,2024-04-02,33,5.5,3,10600,3.3,6.3,CDD,Non
+EMP0628,53,Homme,Rabat,Licence,Finance,Accountant,0,2026-04-06,34,3.0,1,13050,3.6,6.8,CDI,Non
+EMP0594,37,Homme,Casablanca,Doctorat,Operations,Coordinator,17,2008-05-04,36,4.6,3,22550,3.8,6.4,CDI,Non
+EMP0636,45,Homme,Rabat,Master,IT,Network Engineer,6,2018-08-08,48,0.4,2,16100,2.6,7.9,CDI,Non
+EMP0047,41,Femme,Casablanca,Master,IT,Network Engineer,5,2019-06-27,40,6.6,1,17500,3.7,5.1,CDI,Oui
+EMP0157,38,Femme,Fès,Bac+2,Operations,Technician,5,2021-07-14,45,15.9,1,10750,3.0,6.7,CDD,Non
+EMP0640,46,Homme,Casablanca,Bac+2,RH,HR Analyst,1,2023-05-13,45,2.8,2,8550,3.1,7.6,CDI,Non
+EMP0505,36,Homme,Marrakech,Master,Finance,Controller,0,2026-11-12,46,7.7,1,14150,3.7,9.9,CDI,Non
+EMP0039,33,Homme,Casablanca,Licence,Sales,Account Manager,7,2019-11-10,45,9.2,1,12350,3.4,7.4,CDI,Non
+EMP0498,32,Homme,Agadir,Bac+2,Data,Data Analyst,12,2014-08-07,43,2.5,1,16600,3.6,7.3,CDI,Oui
+EMP0428,22,Femme,,Master,Sales,Account Manager,2,2023-07-02,40,4.5,0,14350,2.7,7.6,CDI,Non
+EMP0153,52,Homme,Agadir,Licence,IT,Network Engineer,32,2002-01-24,42,7.8,0,23900,3.5,7.4,CDI,Non
+EMP0055,33,Homme,Rabat,Licence,Finance,Financial Analyst,3,2023-12-07,42,5.1,0,10050,3.0,6.6,CDI,Non
+EMP0131,34,Femme,Tanger,Master,RH,Recruiter,14,2012-03-19,35,6.0,3,17950,4.1,7.7,CDD,Oui
+EMP0109,28,Femme,Rabat,Master,Data,Data Engineer,8,2017-11-04,47,2.5,1,17900,3.2,8.6,CDI,Non
+EMP0117,35,Homme,Casablanca,Bac+2,IT,Network Engineer,12,2013-01-21,46,4.3,4,18450,2.9,5.2,CDI,Oui
+EMP0197,29,Homme,agadir,Master,Data,Data Engineer,1,2024-05-14,46,5.0,1,16850,3.4,6.5,CDI,Non
+EMP0327,22,Homme,Casablanca,Master,Sales,Account Manager,2,2023-08-14,57,6.7,1,13350,2.6,5.3,CDI,Non
+EMP0566,31,Homme,Casablanca,Licence,Operations,Operations Analyst,6,2019-06-18,30,7.1,3,11950,3.8,6.4,CDI,Non
+EMP0188,48,Homme,Casablanca,Bac+2,Finance,Financial Analyst,11,2013-04-22,42,2.0,1,13100,2.7,9.3,CDI,Non
+EMP0478,40,Homme,Casablanca,Licence,Finance,Controller,16,2009-05-01,49,5.9,0,19750,2.4,4.8,CDI,Oui
+EMP0204,41,Femme,Tanger,Master,Finance,Controller,9,2017-03-06,32,5.3,1,16550,2.3,7.8,CDI,Non
+EMP0514,46,Femme,Tanger,Bac,Operations,Coordinator,5,2019-02-10,48,7.2,1,9850,3.7,5.3,CDI,Non
+EMP0536,36,Femme,Rabat,Licence,IT,System Engineer,13,2013-04-15,41,2.9,0,16350,2.6,6.7,CDI,Non
+EMP0622,42,Femme,Marrakech,Master,IT,Network Engineer,18,2007-12-03,40,7.2,3,23850,4.8,5.3,CDI,Non
+EMP0232,25,Femme,Rabat,Master,Finance,Accountant,5,2020-07-06,45,3.0,2,12900,3.7,9.6,CDI,Non
+EMP0645,47,Homme,Agadir ,Master,IT,System Engineer,9,2017-04-18,43,6.4,3,22550,4.3,6.9,CDD,Non
+EMP0456,33,Femme,Tanger,Master,Sales,Account Manager,10,2015-04-25,39,9.6,2,21900,4.4,6.6,CDD,Oui
+EMP0569,28,Femme,Fès,Doctorat,Data,BI Analyst,5,2020-09-03,41,5.4,1,21150,3.3,5.4,Stage,Non
+EMP0560,30,Homme,Rabat,Bac+2,Finance,Financial Analyst,4,2020-07-20,50,6.1,4,12350,4.3,6.3,CDD,Non
+EMP0220,45,Femme,Marrakech,Bac+2,Operations,Operations Analyst,7,2019-03-14,43,7.4,2,10700,2.8,7.9,CDI,Non
+EMP0206,49,Femme,Marrakech,Master,RH,HR Specialist,11,2015-04-15,51,6.5,2,12850,3.1,5.3,CDI,Non
+EMP0224,52,Femme,Casablanca,Bac+2,Data,BI Analyst,5,2019-11-21,41,4.1,1,15150,3.5,6.1,CDI,Non
+EMP0212,46,Femme,Casablanca,Master,Operations,Operations Analyst,23,2003-09-22,39,2.1,1,23150,3.7,6.6,CDI,Oui
+EMP0145,46,Femme,Casablanca,Licence,Data,BI Analyst,1,2024-09-13,46,2.9,2,12650,3.4,7.2,CDI,Non
+EMP0347,32,Femme,Marrakech,Doctorat,Operations,Operations Analyst,4,2022-06-25,46,2.6,2,13450,3.7,7.9,CDI,Non
+EMP0489,40,Homme,marrakech,Master,Finance,Controller,15,2010-01-09,35,16.6,1,19750,3.4,7.5,CDI,Non
+EMP0577,44,Homme,Rabat,Licence,Data,BI Analyst,13,2012-08-06,43,6.2,3,16500,2.7,5.6,Stage,Non
+EMP0031,52,Homme,Casablanca,Bac+2,Operations,Coordinator,1,2023-07-06,52,3.7,0,6600,3.2,5.3,CDI,Non
+EMP0438,39,Femme,Rabat,Master,Finance,Financial Analyst,13,2013-06-05,49,4.6,1,16850,3.8,4.9,CDI,Non
+EMP0441,41,Homme,Rabat,Master,RH,HR Analyst,17,2009-05-15,43,4.2,2,20800,3.6,10.0,CDD,Oui
+EMP0466,44,Homme,Agadir,Bac,IT,Network Engineer,0,2025-12-13,45,2.9,0,11550,3.4,9.6,CDI,Non
+EMP0451,36,Femme,Casablanca,,IT,Support Engineer,16,2009-05-12,49,0.9,2,19450,3.6,8.5,CDI,Non
+EMP0573,29,Homme,Rabat,Licence,Sales,Sales Analyst,9,2016-12-05,34,8.6,1,14350,3.2,7.1,CDI,Non
+EMP0495,32,Femme,Marrakech,Master,IT,Network Engineer,1,2023-10-11,38,6.7,0,18700,3.9,4.3,CDI,Non
+EMP0143,32,Homme,Tanger,Master,Data,Data Engineer,6,2019-02-02,43,7.3,3,22300,4.1,7.2,CDI,Non
+EMP0464,25,Femme,Marrakech,Licence,Data,Data Analyst,1,2025-06-14,41,2.8,0,9650,3.1,7.3,CDI,Non
+EMP0425,32,Homme,Marrakech,Bac,RH,Recruiter,12,2014-07-26,48,12.1,3,15200,3.2,8.2,CDI,Non
+EMP0287,21,Homme,Marrakech,Bac+2,Finance,Financial Analyst,1,2023-02-16,37,3.3,1,12500,3.3,7.9,CDI,Non
+EMP0436,45,Homme,marrakech,Bac+2,Data,Data Engineer,19,2007-03-12,37,7.7,1,20500,3.8,4.6,CDI,Oui
+EMP0245,33,Femme,Rabat,Bac+2,RH,HR Specialist,4,2021-01-16,30,9.5,1,12600,3.7,6.6,CDI,Non
+EMP0281,23,Femme,Marrakech,Master,Operations,Coordinator,3,2021-03-10,41,5.1,1,13050,3.1,4.9,CDI,Non
+EMP0186,35,Femme,Rabat,Licence,RH,Recruiter,2,2023-11-09,41,3.5,4,11150,3.4,6.5,Stage,Non
+EMP0035,43,Femme,Fès,Licence,Finance,Controller,9,2015-09-08,39,4.0,2,16600,3.8,8.1,CDD,Non
+EMP0562,39,Femme,Agadir,Master,Sales,Sales Analyst,0,2024-06-09,42,3.5,2,12600,3.1,6.4,CDI,Non
+EMP0515,47,Homme,Casablanca,Bac,IT,System Engineer,0,2025-08-20,42,7.7,2,13450,3.4,7.3,CDI,Non
+EMP0616,31,Femme,Casablanca,Bac+2,RH,Recruiter,4,2021-08-10,46,2.7,0,6500,3.8,8.3,CDI,Non
+EMP0345,40,Homme,Fès,Master,Finance,Accountant,18,2007-03-03,43,6.3,1,16900,3.1,7.8,CDI,Non
+EMP0454,39,Homme,Tanger,Bac+2,Data,Data Analyst,11,2014-04-06,46,15.0,0,15800,2.3,6.3,CDI,Non
+EMP0340,28,Femme,Casablanca,Master,IT,Support Engineer,6,2020-02-12,39,0.1,2,16750,4.7,8.5,CDI,Oui
+EMP0423,26,Homme,Casablanca,Licence,IT,System Engineer,0,2024-10-04,54,4.8,2,14000,4.1,7.9,CDI,Oui
+EMP0398,44,Femme,Casablanca,Bac+2,IT,Network Engineer,19,2007-07-03,40,1.3,2,21400,3.7,6.9,CDI,Non
+EMP0285,24,Homme,Rabat,Bac+2,Sales,Account Manager,3,2022-08-04,43,7.4,2,13150,4.1,6.0,CDI,Non
+EMP0264,38,Femme,Marrakech,Licence,RH,HR Analyst,8,2016-10-15,47,15.0,0,8950,3.6,5.2,CDI,Non
+EMP0172,23,Femme,Tanger,Master,Operations,Technician,3,2023-12-01,44,1.8,0,10500,3.5,7.2,CDI,Non
+EMP0137,40,Femme,Tanger,Master,IT,Support Engineer,0,2026-03-03,42,6.7,5,15300,3.6,8.4,Stage,Non
+EMP0460,43,Femme,Rabat,Bac,Sales,Sales Analyst,7,2017-01-06,37,10.1,1,11350,3.7,6.6,CDI,Non
+EMP0597,34,Homme,Marrakech,Master,Operations,Operations Analyst,14,2010-01-25,41,1.0,1,17750,4.3,,CDI,Oui
+EMP0053,39,Femme,Casablanca,Licence,RH,Recruiter,13,2013-07-03,48,11.5,1,14750,2.7,6.9,CDI,Non
+EMP0201,38,Femme,Tanger,Bac,IT,Network Engineer,17,2007-02-10,36,1.2,2,19150,,7.0,CDI,Non
+EMP0317,29,Homme,Rabat,Licence,IT,System Engineer,9,2016-07-02,37,8.0,0,14250,2.9,9.2,CDI,Non
+EMP0010,42,Homme,Marrakech,Master,RH,HR Specialist,4,2020-04-27,41,10.5,0,11600,3.3,5.6,CDI,Non
+EMP0223,44,Femme,Tanger,Master,Data,Data Analyst,22,2003-12-02,39,5.4,3,24650,3.8,,CDI,Non
+EMP0363,32,Homme,Tanger,Master,Operations,Operations Analyst,1,2024-12-11,50,3.7,1,10550,3.7,,CDI,Non
+EMP0033,45,Femme,Rabat,Master,Operations,Operations Analyst,9,2016-12-05,35,3.0,3,17150,3.6,8.8,CDI,Non
+EMP0297,50,Homme,Casablanca,Master,Operations,,11,2015-06-19,41,3.6,0,16050,3.5,10.0,CDI,Non
+EMP0001,32,Homme,Casablanca,Bac+2,IT,Network Engineer,12,2012-05-14,39,3.6,0,18600,3.8,7.2,CDD,Non
+EMP0051,31,Femme,Casablanca,Licence,IT,System Engineer,9,2017-05-24,50,3.8,1,19550,3.5,5.9,CDI,Non
+EMP0448,35,Femme,Casablanca,Doctorat,Finance,Financial Analyst,8,2018-01-10,36,6.5,1,19350,4.4,5.6,CDI,Non
+EMP0312,41,Homme,Marrakech,Licence,Data,Data Engineer,15,2010-01-20,51,4.5,0,22200,3.9,6.9,CDD,Non
+EMP0253,36,Homme,Agadir,Master,Data,Data Analyst,5,2021-07-17,46,8.2,3,15600,3.8,5.8,CDD,Non
+EMP0339,38,Femme,Fès,Master,Sales,Sales Analyst,15,2009-07-07,41,14.3,3,19900,3.8,5.8,CDI,Non
+EMP0190,43,Homme,Casablanca,Master,Finance,Accountant,0,2026-10-08,39,8.2,1,13550,4.0,6.3,CDI,Non
+EMP0276,27,Homme,Casablanca,Licence,Sales,Account Manager,0,2024-02-14,38,7.5,2,10700,3.5,7.0,CDI,Non
+EMP0149,52,Homme,,Bac,Data,Data Engineer,11,2015-10-18,44,5.7,0,19850,3.7,6.6,CDD,Non
+EMP0179,42,Femme,Casablanca,Master,Operations,Coordinator,13,2013-05-05,40,8.3,0,15350,3.7,5.2,CDI,Non
+EMP0250,42,Femme,Casablanca,Bac+2,RH,HR Specialist,21,2003-02-07,35,2.7,1,18650,3.7,8.5,CDD,Oui
+EMP0527,34,Femme,Rabat,Master,IT,Support Engineer,6,2020-09-06,40,9.6,3,13200,3.0,6.0,CDD,Non
+EMP0471,40,Femme,Rabat,Doctorat,Operations,Operations Analyst,15,2011-02-16,51,1.4,1,20200,3.1,8.4,CDI,Non
+EMP0482,52,Homme,Rabat,Master,Finance,Accountant,1,2025-02-21,36,0.7,2,74000,3.6,7.6,CDI,Non
+EMP0439,30,Homme,Rabat,Master,Finance,Controller,10,2015-11-02,50,8.7,0,24200,4.4,8.1,CDD,Non
+EMP0524,35,Homme,Marrakech,Licence,IT,Support Engineer,15,2009-08-08,35,6.1,1,18600,3.7,6.3,CDD,Oui
+EMP0311,39,Femme,Fès,Doctorat,Data,Data Engineer,2,2022-11-01,57,1.4,1,20400,2.4,9.1,CDI,Non
+EMP0008,44,Femme,Tanger,Licence,Data,Data Analyst,17,2008-06-05,37,2.9,4,17150,2.5,8.9,CDI,Non
+EMP0093,25,Homme,Marrakech,Doctorat,Sales,Sales Representative,1,2023-06-21,48,1.5,4,13150,4.5,6.2,CDI,Non
+EMP0038,33,Femme,Casablanca,Bac,IT,Support Engineer,1,2025-06-15,42,3.1,2,10950,3.1,4.8,CDI,Non
+EMP0476,29,Homme,Casablanca,Bac+2,Operations,Operations Analyst,0,2024-05-14,40,3.6,2,10600,4.1,8.0,CDI,Non
+EMP0578,40,Homme,Casablanca,Bac+2,Operations,Operations Analyst,1,2023-07-16,44,4.1,3,8050,3.6,5.6,CDI,Non
+EMP0384,34,Homme,Casablanca,Licence,Sales,Sales Representative,2,2022-08-17,48,9.9,0,11700,3.5,7.2,CDI,Non
+EMP0383,49,Femme,Casablanca,Master,Data,Data Engineer,8,2018-07-07,35,6.1,2,21250,2.6,4.3,CDD,Non
+EMP0062,37,Homme,Casablanca,Bac+2,RH,HR Specialist,15,2009-03-17,42,1.6,2,15650,2.8,8.4,CDI,Non
+EMP0197,29,Homme,agadir,Master,Data,Data Engineer,1,2024-05-14,46,5.0,1,16850,3.4,6.5,CDI,Non
+EMP0626,55,Femme,Rabat,Master,Operations,Technician,27,2002-09-23,34,2.5,2,22650,3.0,8.4,CDI,Oui
+EMP0547,42,Homme,Marrakech,Bac,Data,BI Analyst,5,2021-10-22,41,6.2,1,13100,3.2,6.2,CDI,Non
+EMP0147,56,Homme,Marrakech,Bac+2,Finance,Financial Analyst,16,2009-01-22,43,8.9,1,19400,3.7,4.2,CDD,Non
+EMP0127,26,Femme,Casablanca,Bac+2,IT,System Engineer,6,2019-06-20,46,3.7,2,14100,4.5,6.9,CDI,Non
+EMP0016,52,Homme,Agadir,Master,Data,Data Engineer,22,2002-08-08,46,9.1,0,23450,3.6,4.8,CDI,Non
+EMP0254,29,Homme,Casablanca,Master,Sales,Sales Analyst,7,2017-08-23,39,2.4,5,12550,3.3,6.6,CDI,Non
+EMP0426,27,Femme,Marrakech,Bac+2,IT,System Engineer,6,2018-02-10,43,7.4,1,16250,3.7,7.3,CDI,Non
+EMP0444,28,Homme,Rabat,Bac+2,Sales,Account Manager,5,2021-04-05,50,6.8,1,12850,3.9,7.0,CDI,Non
+EMP0316,50,Homme,Casablanca,Master,Sales,Account Manager,9,2016-08-23,42,12.0,0,19250,4.2,6.0,CDI,Oui
+EMP0082,31,Homme,Casablanca,Master,Finance,Financial Analyst,11,2013-02-01,52,2.5,2,17850,3.0,7.9,CDI,Non
+EMP0247,22,Homme,Tanger,Bac,RH,HR Analyst,1,2023-03-26,45,8.8,2,10500,3.8,6.8,CDD,Non
+EMP0510,32,Femme,Casablanca,Bac,Sales,Sales Analyst,3,2022-11-08,38,1.9,1,9050,2.7,8.8,CDI,Non
+EMP0607,32,Homme,,Licence,Sales,Account Manager,11,2013-03-06,44,11.4,2,12900,3.5,7.7,CDI,Non
+EMP0344,40,Homme,Casablanca,Licence,Data,BI Analyst,20,2006-12-19,46,3.6,1,20000,4.2,5.7,CDI,Non
+EMP0420,43,Femme,Rabat,Master,Sales,Sales Representative,19,2007-05-06,44,3.5,3,19550,2.5,7.9,CDI,Oui
+EMP0526,38,Femme,Rabat,Master,IT,Support Engineer,9,2017-06-17,43,5.7,2,15900,3.1,6.3,CDD,Non
+EMP0066,46,Homme,Agadir,Doctorat,IT,Support Engineer,5,2020-01-18,35,19.4,2,16400,3.5,7.4,CDI,Non
+EMP0386,35,Homme,Fes,Master,Data,Data Engineer,9,2017-01-07,46,3.4,1,16850,2.9,8.2,CDI,Non
+EMP0182,36,Femme,Tanger,Master,Operations,Technician,3,2023-01-17,42,2.3,1,13650,4.2,7.5,CDI,Non
+EMP0561,47,Homme,Marrakech,Bac+2,Operations,Technician,19,2007-04-13,38,5.5,1,13750,2.6,4.6,CDI,Non
+EMP0450,30,Femme,Casablanca,Bac+2,Operations,Coordinator,10,2015-02-08,43,3.3,1,14900,4.9,5.8,CDI,Non
+EMP0380,44,Femme,Tanger,Doctorat,RH,HR Specialist,17,2007-01-07,51,3.9,2,17900,2.8,7.5,CDD,Non
+EMP0007,50,Homme,Marrakech,Bac+2,Operations,Coordinator,25,2002-10-23,43,8.0,0,18150,3.0,6.6,CDI,Non
+EMP0233,45,Femme,Casablanca,Master,Sales,Sales Representative,22,2004-07-01,48,4.6,1,22700,3.0,6.4,CDD,Non
+EMP0275,44,Homme,Rabat,Master,IT,Support Engineer,0,2026-08-16,44,3.7,1,11550,2.1,8.9,CDI,Non
+EMP0329,41,Femme,Rabat,Licence,IT,Support Engineer,6,2019-01-01,39,4.9,1,13700,4.5,9.5,CDI,Oui
+EMP0379,43,Femme,Marrakech,Licence,IT,System Engineer,17,2009-01-11,39,7.7,0,20000,3.2,5.9,CDI,Non
+EMP0227,49,Homme,Casablanca,Licence,Data,Data Analyst,15,2011-07-13,39,2.3,1,17250,3.7,7.4,CDI,Non
+EMP0463,56,Femme,Rabat,Bac+2,Operations,Technician,23,2003-11-08,41,6.8,1,15600,,6.7,CDI,Non
+EMP0219,32,Homme,Tanger,Licence,Data,BI Analyst,12,2013-07-14,37,10.2,1,14100,3.3,4.5,CDI,Non
+EMP0328,34,Homme,Casablanca,Doctorat,Sales,Account Manager,9,2015-03-22,50,1.0,3,14950,2.1,7.0,CDI,Non
+EMP0192,30,Homme,Marrakech,Master,Finance,Controller,10,2015-10-13,53,7.9,1,18950,4.3,6.0,CDD,Non
+EMP0552,33,Homme,Marrakech,Bac+2,RH,Recruiter,2,2022-04-08,50,6.9,0,12100,3.7,5.9,CDD,Non
+EMP0586,60,Homme,Marrakech,Bac+2,Sales,Account Manager,36,2002-05-01,46,6.4,3,24850,3.2,10.0,CDI,Non
+EMP0488,44,Homme,Casablanca,Licence,IT,Network Engineer,12,2014-04-10,35,7.0,2,18200,2.7,8.7,CDI,Non
+EMP0633,37,Femme,Agadir,Bac,Operations,Technician,16,2010-04-12,39,5.3,3,13150,3.3,6.7,CDI,Non
+EMP0644,41,Homme,Rabat,Bac,Sales,Sales Analyst,13,2013-03-15,52,6.2,1,14900,2.9,6.8,CDI,Non
+EMP0431,52,Homme,Fès,Master,Finance,Financial Analyst,9,2017-04-10,54,7.4,2,17450,3.7,7.2,Stage,Non
+EMP0372,36,Femme,Tanger,Master,Sales,Sales Representative,3,2021-12-10,51,4.4,1,14350,2.6,8.1,CDD,Non
+EMP0612,25,Femme,Rabat,Licence,Data,Data Analyst,4,2022-12-23,47,3.0,4,11850,2.7,7.7,CDI,Non
+EMP0572,29,Femme,Agadir,Master,Operations,,1,2025-05-26,50,11.7,0,11650,4.8,5.6,CDI,Non
+EMP0539,40,Femme,Rabat,Bac,RH,HR Analyst,20,2006-03-13,44,14.9,2,17100,,3.4,CDI,Non
+EMP0226,36,Femme,Casablanca,Bac,RH,HR Specialist,15,2009-10-02,42,2.9,2,14400,4.4,9.3,CDI,Non
+EMP0242,21,Homme,Fès,Master,Sales,Sales Analyst,1,2025-09-15,46,3.1,1,11550,3.9,7.2,CDI,Non
+EMP0346,28,Femme,Casablanca,Doctorat,IT,Network Engineer,7,2019-08-07,45,6.4,1,21800,3.4,6.1,CDI,Oui
+EMP0582,44,Homme,Casablanca,Bac+2,Operations,Operations Analyst,24,2002-03-18,44,2.5,3,15900,4.1,7.3,CDI,Non
+EMP0025,35,Homme,Tanger,,Sales,Sales Analyst,10,2016-11-25,37,3.1,0,19100,2.5,7.0,CDI,Oui
+EMP0274,23,Homme,Rabat,Bac+2,Operations,Coordinator,1,2025-02-08,45,19.5,2,10250,,4.2,CDI,Non
+EMP0521,41,Homme,Tanger,Master,Sales,Account Manager,11,2014-11-08,46,6.1,0,18000,2.8,8.6,CDD,Non
+EMP0119,37,Homme,Tanger,Licence,Sales,Sales Representative,6,2020-02-18,43,3.3,1,11600,2.6,7.3,CDI,Non
+EMP0103,36,Homme,Casablanca,Bac+2,Data,Data Analyst,4,2020-01-27,37,4.3,1,14950,3.9,6.9,CDI,Non
+EMP0006,32,Homme,Tanger,Bac+2,Operations,Technician,8,2017-10-13,43,5.1,0,12700,3.2,6.3,CDI,Non
+EMP0160,29,Homme,Agadir,Master,Sales,Account Manager,6,2019-03-15,38,5.6,2,17000,3.5,6.6,CDI,Non
+EMP0557,38,Femme,Rabat,Licence,Data,Data Analyst,1,2025-02-21,40,4.0,3,12500,4.0,6.3,CDI,Non
+EMP0110,39,Femme,Casablanca,Bac+2,Sales,Sales Analyst,5,2019-01-16,52,2.7,1,12500,3.0,7.2,CDI,Non
+EMP0525,33,Homme,Casablanca,Bac+2,IT,System Engineer,2,2024-02-20,43,1.6,4,12150,3.2,4.7,CDI,Non
+EMP0208,21,Homme,Fès,Licence,Operations,Operations Analyst,1,2024-04-23,38,2.3,2,10050,3.5,7.4,CDI,Non
+EMP0599,31,Homme,Marrakech,Master,Data,Data Analyst,4,2021-12-01,52,4.2,1,12400,3.1,5.6,CDD,Non
+EMP0268,28,Femme,Casablanca,Master,RH,HR Analyst,3,2023-05-06,49,4.4,0,12950,3.9,5.2,Stage,Oui
+EMP0621,32,Femme,Casablanca,Licence,IT,System Engineer,5,2019-09-13,34,1.7,0,15050,2.8,9.2,CDI,Non
+EMP0099,47,Femme,Fès,Doctorat,Data,Data Analyst,5,2019-04-10,31,0.7,3,18200,2.9,8.3,CDI,Non
+EMP0538,36,Femme,Casablanca,Master,Operations,Coordinator,3,2023-03-18,45,9.8,5,12600,4.4,8.7,CDI,Non
+EMP0540,44,Homme,Casablanca,Licence,Sales,Sales Analyst,24,2002-11-04,38,8.3,5,18650,4.3,6.7,CDD,Non
+EMP0474,37,Femme,Casablanca,Bac+2,RH,HR Analyst,12,2014-01-27,50,13.6,1,11200,2.6,5.2,CDD,Non
+EMP0542,28,Homme,Fès,Master,Operations,Technician,6,2020-04-07,36,7.6,0,15850,3.9,9.0,Stage,Non
+EMP0115,49,Homme,Casablanca,Bac+2,Sales,Account Manager,21,2005-02-09,35,19.5,2,18700,3.2,5.2,CDD,Non
+EMP0373,38,Homme,Rabat,Bac+2,Operations,Coordinator,5,2019-10-06,50,4.1,0,8750,3.5,8.7,CDD,Non
+EMP0156,43,Homme,Agadir,Bac+2,Operations,Technician,12,2013-02-09,44,1.8,0,10650,3.7,7.4,CDD,Oui
+EMP0493,32,Homme,Tanger,Master,Finance,Financial Analyst,0,2024-07-27,41,5.4,4,10450,2.4,6.2,CDI,Non
+EMP0646,33,Homme,Fès,Licence,Operations,Coordinator,0,2024-05-17,45,9.3,4,12150,3.8,6.0,CDD,Non
+EMP0393,31,Femme,Marrakech,Licence,Sales,Sales Analyst,5,2021-09-19,47,3.9,1,9950,2.6,5.8,CDI,Non
+EMP0367,36,Homme,Rabat,Bac+2,Data,BI Analyst,0,2026-09-12,41,2.3,1,10750,4.1,8.3,CDI,Non
+EMP0336,32,Homme,Rabat,Doctorat,IT,Network Engineer,4,2022-07-27,46,3.6,1,18850,5.0,6.9,CDD,Non
+EMP0300,42,Femme,Rabat,Master,Sales,Sales Analyst,8,2018-11-22,49,10.0,1,17250,4.1,6.7,CDI,Non
+EMP0647,43,Femme,Casablanca,Bac,Data,Data Engineer,10,2014-04-24,45,7.3,0,16750,3.6,8.5,CDI,Non
+EMP0490,34,Homme,Rabat,Bac+2,RH,HR Specialist,1,2023-05-11,40,2.5,4,11150,4.1,7.8,CDI,Non
+EMP0635,30,Homme,Casablanca,Master,Sales,Sales Representative,8,2016-01-07,48,4.6,2,14850,3.4,6.4,CDI,Non
+EMP0411,44,Homme,Casablanca,Licence,Finance,Accountant,0,2024-12-25,38,4.8,2,12200,3.1,8.7,CDI,Non
+EMP0632,39,Femme,Marrakech,Licence,RH,HR Specialist,1,2025-07-21,39,6.0,2,11450,3.5,,CDD,Non
+EMP0407,46,Homme,Marrakech,Master,IT,Support Engineer,6,2018-10-08,34,6.2,0,16750,4.6,7.4,CDI,Non
+EMP0013,36,Femme,Rabat,Master,Data,Data Engineer,0,2026-12-08,41,5.7,0,17200,4.0,6.3,CDD,Non
+EMP0289,30,Homme,Casablanca,Bac+2,Sales,Account Manager,0,2024-12-04,42,9.3,1,12350,4.4,7.8,CDI,Oui
+EMP0459,32,Femme,Marrakech,Master,Sales,Sales Representative,9,2016-02-21,36,9.6,1,15050,3.4,5.7,CDI,Non
+EMP0142,36,Femme,Rabat,Licence,Finance,Financial Analyst,7,2018-05-14,42,3.3,0,11250,3.4,5.4,CDI,Non
+EMP0080,37,Femme,Agadir,Bac,IT,Network Engineer,15,2009-08-27,50,8.5,2,16050,3.3,6.5,CDD,Non
+EMP0501,30,Femme,Tanger,Licence,Sales,Sales Representative,5,2019-11-01,44,0.8,1,10700,3.2,7.4,CDI,Oui
+EMP0040,39,Homme,Casablanca,Licence,Sales,Account Manager,19,2006-05-12,50,1.6,2,22050,4.0,8.4,CDD,Non
+EMP0532,35,Homme,Marrakech,Master,Finance,Financial Analyst,5,2021-10-14,43,2.6,0,17200,4.9,7.6,CDI,Non
+EMP0011,28,Homme,Rabat,Bac,Finance,Financial Analyst,2,2023-04-04,45,1.8,2,10450,3.8,7.3,CDI,Non
+EMP0091,49,Femme,Tanger,Licence,Data,BI Analyst,8,2018-11-07,46,1.3,1,15000,3.2,4.2,CDI,Non
+EMP0064,52,Femme,Agadir,Master,RH,HR Specialist,28,2002-06-24,82,12.5,2,20650,2.6,7.7,CDI,Non
+EMP0083,29,Homme,Rabat,Bac+2,RH,Recruiter,4,2021-07-19,39,14.9,2,7350,2.7,9.0,CDI,Non
+EMP0333,33,Femme,Fès,Master,Operations,Coordinator,1,2023-11-02,38,6.4,1,13000,3.8,7.8,CDI,Non
+EMP0221,48,Femme,Marrakech,Master,Finance,Financial Analyst,20,2004-07-23,36,3.2,2,19600,,6.0,CDI,Non
+EMP0326,41,Femme,Fès,Bac+2,IT,Network Engineer,18,2008-07-18,39,4.7,1,19100,3.9,4.9,CDI,Non
+EMP0071,29,Femme,Marrakech,Bac+2,Finance,Financial Analyst,4,2021-01-25,40,4.6,1,12050,3.0,6.1,CDI,Non
+EMP0600,47,Homme,Rabat,Master,IT,System Engineer,20,2004-09-19,39,15.0,3,24300,2.7,6.8,CDI,Non
+EMP0106,54,Femme,Casablanca,Licence,IT,System Engineer,13,2013-03-17,44,8.2,2,15300,3.1,5.4,CDI,Non
+EMP0624,26,Femme,Marrakech,Licence,Sales,Sales Representative,6,2019-11-13,44,4.0,1,11200,2.9,8.7,CDI,Non
+EMP0625,42,Femme,Fès,Bac+2,Operations,Technician,7,2018-09-08,37,8.1,2,12000,3.6,6.2,CDI,Non
+EMP0296,60,Homme,Tanger,Master,Sales,Sales Analyst,0,2025-11-07,43,5.9,0,15000,3.4,8.3,CDI,Non
+EMP0243,30,Homme,Marrakech,Master,IT,Support Engineer,10,2015-08-01,48,4.9,1,14750,3.8,8.2,CDI,Non
+EMP0342,45,Femme,Fès,Master,Sales,Account Manager,18,2008-02-23,40,3.6,1,19450,2.5,7.1,CDI,Non
+EMP0185,32,Homme,Agadir,Master,Sales,Sales Analyst,9,2015-08-06,45,9.0,1,18100,3.7,8.6,CDI,Non
+EMP0648,39,Homme,Casablanca,Bac+2,Sales,Sales Representative,10,2015-06-03,51,12.5,1,11400,4.0,7.1,CDI,Non
+EMP0132,36,Homme,Marrakech,Master,RH,Recruiter,5,2020-01-05,46,1.7,0,12400,2.9,8.3,CDI,Non
+EMP0200,35,Femme,Agadir,Master,Operations,Operations Analyst,3,2021-01-04,46,3.4,1,13150,3.5,5.1,CDI,Non
+EMP0453,32,Homme,Rabat,Master,Data,BI Analyst,1,2025-10-07,47,8.5,1,15500,3.4,7.2,Stage,Non
+EMP0494,33,Femme,Rabat,Licence,IT,Support Engineer,0,2025-02-17,36,11.4,1,9150,3.4,7.1,CDI,Non
+EMP0348,38,Femme,Marrakech,Licence,IT,Support Engineer,9,2015-07-19,48,6.7,1,12700,2.4,6.8,CDD,Non
+EMP0331,49,Femme,Marrakech,Licence,IT,Network Engineer,27,2002-12-26,48,6.7,0,27200,2.8,5.3,CDD,Oui
+EMP0030,27,Homme,Tanger,Licence,IT,System Engineer,3,2022-11-09,39,10.2,0,14900,3.5,5.3,CDI,Non
+EMP0579,30,Homme,Marrakech,Licence,Sales,Account Manager,7,2018-10-18,39,4.8,1,13100,3.1,6.6,CDD,Non
+EMP0072,42,Femme,Marrakech,Bac+2,Operations,Technician,8,2016-05-25,42,3.3,1,12250,4.9,9.1,CDI,Non
+EMP0401,36,Homme,Casablanca,Master,Sales,Sales Analyst,3,2023-03-02,51,8.3,2,12800,3.4,6.9,CDD,Non
+EMP0272,28,Homme,Agadir,Bac+2,Sales,Sales Representative,3,2022-11-20,39,5.5,1,9050,4.0,5.8,CDI,Non
+EMP0210,56,Femme,Tanger,Master,Data,Data Analyst,8,2018-05-21,43,4.0,1,18850,3.5,8.4,CDI,Non
+EMP0338,43,Homme,Rabat,Master,RH,Recruiter,0,2024-09-09,39,3.7,2,9050,3.9,8.7,CDI,Non
+EMP0050,40,Homme,Fès,Licence,Finance,Financial Analyst,20,2006-12-08,38,13.2,1,23300,3.1,6.1,CDI,Non
+EMP0027,33,Femme,Casablanca,Licence,Data,Data Analyst,9,2017-06-06,37,4.4,2,17200,2.6,7.0,CDD,Non
+EMP0563,45,Homme,Agadir,Bac,Sales,Sales Representative,11,2015-04-10,42,3.1,1,13850,2.9,6.8,CDI,Non
+EMP0537,46,Femme,Tanger,Master,Sales,Sales Representative,2,2024-03-06,37,3.0,2,10200,3.1,7.7,Stage,Non
+EMP0169,50,Femme,Casablanca,Master,IT,System Engineer,5,2019-09-21,50,8.8,0,18300,3.1,7.0,CDI,Non
+EMP0320,40,Femme,Agadir,Master,Sales,Sales Analyst,8,2016-03-04,42,7.1,2,16850,2.9,7.4,CDI,Non
+EMP0122,42,Homme,Casablanca,Bac+2,Operations,Operations Analyst,14,2010-12-16,47,4.5,1,16200,4.0,4.7,CDI,Non
+EMP0567,26,Femme,Tanger,Master,Data,BI Analyst,4,2021-07-13,43,12.4,1,17250,3.0,5.8,CDI,Non
+EMP0214,38,Femme,Tanger,Licence,Finance,Accountant,15,2010-06-20,41,3.5,1,20200,3.2,8.1,CDI,Non
+EMP0034,41,Femme,Casablanca,Master,Operations,Operations Analyst,3,2022-08-21,37,4.9,2,12750,3.4,5.5,CDD,Non
+EMP0267,37,Femme,Casablanca,Licence,Operations,Technician,13,2012-02-15,40,11.3,0,13750,2.5,,CDI,Non
+EMP0518,37,Femme,Fès,Master,Finance,Controller,14,2011-08-21,60,3.1,4,18600,3.2,7.3,CDI,Non
+EMP0135,27,Femme,Casablanca,Master,Sales,Sales Analyst,1,2024-07-18,44,10.7,4,12900,2.9,6.9,CDI,Non
+EMP0370,28,Homme,Agadir,Master,Finance,Accountant,3,2023-05-14,44,7.8,2,15550,3.4,6.8,CDI,Non
+EMP0151,38,Homme,Rabat,Licence,RH,HR Analyst,8,2018-06-02,54,8.9,1,12600,3.2,7.4,CDI,Non
+EMP0313,34,Homme,Casablanca,Master,Finance,Controller,19,2024-02-20,39,15.3,1,16550,3.7,6.2,CDI,Non
+EMP0019,27,Homme,Fès,Licence,Operations,Operations Analyst,1,2024-02-03,47,1.5,0,12800,3.3,6.3,CDD,Non
+EMP0262,32,Femme,Tanger,Licence,Operations,Coordinator,11,2015-05-23,42,3.5,2,12600,2.9,5.8,CDI,Non
+EMP0555,22,Homme,Agadir,Master,Sales,Account Manager,2,2023-11-23,43,3.8,0,15050,3.2,5.3,CDI,Non
+EMP0353,41,Homme,Agadir,Bac+2,Sales,Sales Representative,19,2006-03-13,32,6.0,0,12850,2.3,5.2,CDI,Non
+EMP0549,47,Femme,Casablanca,Licence,Finance,Controller,18,2007-09-03,37,1.8,3,16650,3.2,6.6,Stage,Non
+EMP0516,34,Femme,Casablanca,Licence,Sales,Account Manager,4,2020-03-10,39,2.7,1,13050,4.0,5.5,CDI,Non
+EMP0385,37,Femme,Fès,Master,Finance,Controller,13,2012-11-01,44,9.1,1,18700,3.0,7.3,CDI,Non
+EMP0642,32,Homme,Casablanca,Doctorat,RH,Recruiter,5,2019-05-17,46,11.3,5,13700,2.9,5.4,CDI,Non
+EMP0291,27,Femme,Rabat,Licence,Sales,Sales Representative,0,2025-11-16,48,4.1,3,11350,3.3,6.0,CDI,Non
+EMP0416,45,Homme,Marrakech,Master,Operations,Technician,16,2008-08-24,46,4.3,0,16200,4.0,7.0,CDI,Non
+EMP0374,26,Femme,Fès,Master,Sales,Sales Representative,3,2023-07-15,46,1.0,2,10900,2.7,6.6,CDI,Non
+EMP0078,29,Femme,Rabat,Licence,Finance,Financial Analyst,9,2015-11-08,30,4.9,2,15350,3.5,7.2,CDI,Non
+EMP0196,33,Femme,Casablanca,Bac+2,IT,Support Engineer,2,2024-03-18,45,13.9,5,62000,3.9,4.9,CDI,Non
+EMP0335,35,Femme,Rabat,Master,Finance,Accountant,15,2011-01-17,35,5.7,1,20000,4.0,6.2,CDI,Oui
+EMP0076,36,Femme,Casablanca,Master,Finance,Accountant,15,2011-10-27,45,5.2,1,20600,3.9,5.8,CDI,Oui
+EMP0054,35,Femme,Rabat,Master,Operations,Operations Analyst,8,2018-11-11,39,9.9,0,15550,2.4,6.8,CDI,Non
+EMP0576,46,Homme,Tanger,Master,Finance,Financial Analyst,1,2025-01-25,45,2.9,3,13700,4.0,6.9,CDD,Non
+EMP0023,37,Homme,Tanger,Licence,IT,Network Engineer,8,2016-07-19,38,6.6,2,19350,3.7,6.8,CDD,Non
+EMP0049,55,Homme,Casablanca,Master,Sales,Account Manager,15,2009-11-24,55,1.0,3,20400,4.0,6.4,CDI,Oui
+EMP0235,27,Femme,Rabat,Bac+2,Sales,Account Manager,7,2017-12-24,45,5.6,2,13250,1.7,6.9,CDD,Non
+EMP0634,43,Femme,Marrakech,Master,IT,System Engineer,22,2002-05-15,48,3.1,1,22650,3.5,6.7,CDI,Non
+EMP0294,45,Homme,Marrakech,Bac+2,Data,Data Analyst,0,2026-10-26,39,6.9,0,12900,2.9,8.1,CDI,Non
+EMP0545,41,Homme,Casablanca,Master,Sales,Account Manager,1,2025-02-04,43,6.3,3,13050,3.6,6.0,CDI,Non
+EMP0506,35,Homme,Casablanca,Master,Finance,Accountant,15,2010-07-06,43,10.4,1,17200,3.6,6.0,CDI,Non
+EMP0332,24,Homme,Marrakech,Master,IT,Network Engineer,4,2022-09-02,47,15.2,1,15550,4.0,6.2,CDI,Non
+EMP0499,35,Homme,Rabat,Licence,Operations,Operations Analyst,11,2013-12-27,34,1.5,1,11450,2.7,8.5,CDD,Oui
+EMP0225,32,Femme,Casablanca,Master,IT,Network Engineer,2,2024-11-19,38,15.7,1,16200,4.1,3.4,CDD,Non
+EMP0278,49,Homme,Fès,Bac,RH,Recruiter,11,2015-12-03,48,5.3,0,9750,2.8,,CDI,Oui
+EMP0558,34,Homme,Tanger,Master,Data,BI Analyst,7,2017-11-08,40,1.0,1,16800,3.5,7.7,CDI,Non
+EMP0553,37,Homme,Tanger,Licence,Finance,Accountant,17,2009-11-12,40,14.1,3,13000,2.9,5.9,CDI,Non
+EMP0601,41,Homme,Agadir,Licence,IT,System Engineer,13,2012-11-02,44,3.1,1,19100,3.7,8.6,CDI,Non
+EMP0123,50,HOMME,Casablanca,Bac+2,IT,Support Engineer,30,2002-08-22,49,14.2,1,22500,4.4,7.0,CDI,Oui
+EMP0105,47,Homme,Tanger,Bac+2,Data,Data Engineer,7,2019-10-25,49,7.2,0,15650,3.1,6.6,CDI,Non
+EMP0295,36,Homme,Casablanca,Licence,Finance,Financial Analyst,7,2018-08-10,47,2.3,1,16400,4.2,6.6,CDI,Non
+EMP0173,28,Femme,Tanger,Licence,Finance,Financial Analyst,2,2024-05-13,37,2.5,1,13000,3.4,7.8,CDI,Non
+EMP0194,47,Femme,Agadir,Licence,Finance,Accountant,20,2004-04-10,44,2.5,1,19800,3.6,8.2,CDD,Non
+EMP0615,49,Femme,Casablanca,Licence,Data,Data Engineer,21,2004-02-22,48,4.1,3,22550,4.5,6.2,CDD,Oui
+EMP0432,37,Homme,Marrakech,Master,Operations,Coordinator,0,2026-09-22,36,0.9,3,11400,3.7,7.2,CDI,Non
+EMP0349,31,Femme,Rabat,Bac+2,Sales,Sales Analyst,9,2015-06-11,48,4.1,0,12350,2.8,7.1,CDI,Non
+EMP0613,39,Homme,Casablanca,Master,Sales,Sales Representative,9,2016-09-15,44,3.0,1,14600,3.7,7.4,CDI,Non
+EMP0029,36,Femme,Casablanca,Bac,Sales,Sales Representative,16,2008-06-24,40,5.6,1,15750,3.7,6.6,Stage,Non
+EMP0574,39,Femme,Rabat,Master,Finance,Financial Analyst,19,2005-08-13,42,3.2,0,21800,3.8,6.6,CDI,Oui
+EMP0043,27,Femme,Casablanca,Licence,IT,System Engineer,4,2022-05-11,44,9.0,1,14200,4.1,7.8,CDI,Oui
+EMP0366,41,Homme,Rabat,Bac,IT,Network Engineer,15,2010-11-18,41,4.6,3,19600,3.5,5.7,CDD,Non
+EMP0325,28,Homme,Casablanca,Bac+2,IT,Network Engineer,8,2016-07-25,47,1.6,0,14000,2.7,7.4,CDD,Non
+EMP0129,26,Femme,rabat,Licence,Data,BI Analyst,6,2019-11-02,46,5.6,2,14750,4.6,7.5,CDI,Non
+EMP0058,30,Homme,Marrakech,Master,IT,Support Engineer,10,2015-05-18,43,4.5,1,19450,3.8,7.6,CDI,Non
+EMP0286,34,Homme,Tanger,Master,IT,Network Engineer,13,2011-07-18,44,4.5,2,24500,4.5,7.5,CDI,Non
+EMP0114,36,Femme,Tanger,Master,Finance,Financial Analyst,14,2012-09-18,42,14.3,2,19300,2.0,3.6,CDD,Non
+EMP0595,36,Femme,,Doctorat,Finance,Financial Analyst,10,2015-04-08,55,3.2,1,23500,3.0,6.7,CDI,Non
+EMP0293,34,Femme,Casablanca,Licence,Operations,Technician,14,2012-01-04,56,2.1,1,15950,2.8,4.8,CDI,Oui
+EMP0315,45,Femme,Rabat,Bac,Operations,Coordinator,13,2013-09-10,41,3.2,5,10950,3.2,7.7,CDI,Oui
+EMP0371,27,Homme,Fès,Master,Finance,Controller,6,2020-11-09,47,2.5,1,18350,3.1,5.6,CDI,Non
+EMP0575,43,Homme,Casablanca,Master,Sales,Sales Analyst,8,2018-10-07,33,3.3,3,16400,4.0,6.4,CDD,Non
+EMP0565,34,Homme,Fès,Licence,Sales,Account Manager,13,2013-04-25,39,6.0,0,18100,3.6,5.3,CDI,Non
+EMP0390,41,Femme,Agadir,Master,Finance,Financial Analyst,4,2021-11-04,45,4.9,2,13700,4.2,6.0,CDI,Non
+EMP0437,33,Femme,Casablanca,Bac+2,Sales,Account Manager,12,2014-04-05,41,3.5,4,13500,2.6,7.8,CDI,Non
+EMP0623,49,Homme,Casablanca,Bac+2,Operations,Technician,8,2016-01-15,44,9.1,0,10800,4.3,6.2,CDI,Non
+EMP0193,32,Homme,Marrakesh,Master,RH,HR Analyst,0,2025-04-11,52,9.7,2,12400,3.3,6.4,CDI,Non
+EMP0236,27,Homme,Rabat,Bac+2,Sales,Account Manager,6,2018-10-03,40,5.8,3,12700,3.7,6.3,CDI,Non
+EMP0619,31,Homme,Marrakech,Master,Operations,Operations Analyst,2,2024-10-06,46,9.6,0,14900,4.6,8.8,CDI,Non
+EMP0487,44,Femme,Casablanca,Licence,RH,HR Specialist,24,2002-07-24,42,5.5,4,19750,4.5,8.4,CDD,Oui
+EMP0602,29,Femme,Casablanca,Licence,Finance,Accountant,2,2023-11-06,49,3.3,1,13050,4.3,6.8,CDI,Non
+EMP0238,22,Femme,Agadir,Licence,Data,Data Engineer,2,2023-05-21,44,1.1,1,13900,4.5,8.3,CDI,Non
+EMP0479,54,Femme,Fès,Master,Operations,Technician,33,2002-12-02,40,0.5,0,27100,3.7,5.3,CDD,Non
+EMP0483,28,Homme,Agadir,Licence,Finance,Financial Analyst,6,2018-07-14,44,9.7,0,13650,2.5,4.6,CDI,Non
+EMP0095,30,Homme,Casablanca,Licence,Finance,Controller,10,2014-07-24,46,3.2,4,15200,3.9,7.3,CDI,Non
+EMP0251,26,Homme,Rabat,Bac,Finance,Accountant,3,2023-07-22,48,12.4,3,11650,4.1,6.2,CDI,Non
+EMP0361,33,Homme,Tanger,Master,Sales,,6,2019-11-20,41,4.8,0,12950,3.7,5.4,CDD,Non
+EMP0606,41,Femme,Casablanca,Licence,Finance,Financial Analyst,4,2021-03-15,43,13.5,2,13400,3.8,,CDD,Non
+EMP0321,21,Homme,Casablanca,Master,Data,BI Analyst,1,2025-01-08,46,4.6,3,13000,2.3,7.5,CDD,Non
+EMP0603,25,Homme,Casablanca,Master,Sales,Sales Analyst,5,2020-11-14,39,3.3,0,14100,3.9,6.7,CDD,Non
+EMP0392,37,Homme,Tanger,Bac,Operations,Coordinator,1,2024-07-26,37,9.5,1,6800,3.5,6.1,CDD,Non
+EMP0014,22,Femme,Casablanca,Master,Operations,Operations Analyst,2,2023-06-06,43,4.7,1,9000,2.0,8.1,CDI,Non
+EMP0112,40,Homme,Marrakech,Licence,RH,Recruiter,12,2013-04-26,30,3.3,2,16900,3.5,,CDI,Non
+EMP0302,35,Femme,Casablanca,Doctorat,Sales,Account Manager,14,2012-04-07,50,9.5,0,22400,3.5,7.6,CDI,Non
+EMP0261,31,Homme,Rabat,Licence,RH,HR Analyst,9,2015-07-03,39,6.4,1,13150,2.5,7.0,CDI,Non
+EMP0591,33,Femme,Marrakech,Bac+2,IT,System Engineer,11,2014-09-07,38,2.1,3,15500,3.1,,CDI,Non
+EMP0140,43,Homme,Casablanca,,IT,System Engineer,6,2018-01-08,48,3.3,1,16950,3.7,6.4,CDD,Oui
+EMP0554,37,Femme,Casablanca,Licence,Data,BI Analyst,1,2023-05-27,75,4.5,1,13050,2.6,7.6,Stage,Oui
+EMP0564,27,Femme,Casablanca,Master,Sales,Account Manager,7,2017-08-08,46,2.5,1,15050,2.7,5.4,CDD,Non
+EMP0417,26,Femme,Casablanca,Master,Operations,Technician,2,2022-03-16,46,3.2,2,9500,3.2,6.3,CDI,Non
+EMP0513,39,Femme,Tanger,Bac+2,Sales,Sales Analyst,19,2006-12-18,40,2.2,1,16750,5.0,6.1,CDI,Non
+EMP0630,30,Femme,Agadir,Master,Sales,Account Manager,6,2018-03-27,43,3.2,2,15600,3.7,7.8,CDI,Non
+EMP0531,39,Femme,Marrakech,Master,Sales,Sales Analyst,17,2009-11-20,31,4.5,2,19750,3.4,6.7,CDI,Non
+EMP0430,42,Homme,Marrakech,Master,Operations,Coordinator,1,2025-03-27,46,5.5,1,8500,3.7,7.6,CDI,Non
+EMP0504,33,Homme,Fès,Bac+2,Data,Data Engineer,3,2022-06-03,36,2.1,2,16700,3.9,7.6,Stage,Non
+EMP0570,36,Homme,Marrakech,Master,IT,Support Engineer,7,2017-07-20,57,1.4,0,17000,2.3,9.3,CDD,Non
+EMP0422,35,Femme,Rabat,Bac+2,IT,Network Engineer,0,2026-05-24,47,13.7,5,14700,4.4,5.7,CDI,Non
+EMP0237,32,Femme,Fès,Bac+2,Operations,Technician,6,2018-01-21,49,8.3,1,11400,4.3,6.6,CDD,Non
+EMP0500,39,Femme,Fès,Bac+2,Operations,Technician,15,2010-05-10,48,3.0,2,14650,3.5,5.9,CDI,Non
+EMP0609,32,Homme,Marrakech,Bac,Finance,Financial Analyst,6,2018-11-24,42,12.7,1,15550,4.2,7.4,Stage,Non
+EMP0643,21,Femme,Agadir,Bac+2,Data,Data Analyst,1,2024-04-26,44,1.8,2,7800,3.1,5.2,CDI,Non
+EMP0362,29,Femme,Tanger,Master,RH,HR Specialist,9,2016-05-21,43,8.8,3,12950,3.9,5.7,CDI,Non
+EMP0358,48,Homme,Agadir ,Bac,IT,Support Engineer,28,2002-06-15,40,2.4,1,21200,3.4,4.7,CDI,Non
+EMP0260,31,Homme,Tanger,Master,Finance,Financial Analyst,4,2020-04-05,46,1.7,1,15650,3.8,8.4,CDD,Non
+EMP0357,35,Homme,Casablanca,Master,Sales,Sales Analyst,3,2022-06-25,44,8.4,1,18000,3.6,7.8,Stage,Non
